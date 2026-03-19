@@ -1,0 +1,45 @@
+name: Update Temu Docs
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Atualizar documentacao
+        run: python update_docs.py
+
+      - name: Atualizar README
+        run: python update_readme.py
+
+      - name: Commit e push se houver mudancas
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudanca encontrada."
+          else
+            COUNT=$(git diff --cached --numstat | wc -l)
+            DATEBRT=$(TZ='America/Sao_Paulo' date '+%Y-%m-%d %H:%M BRT')
+            git commit -m "docs: atualizacao automatica ($COUNT arquivos) -- $DATEBRT"
+            git push
+          fi

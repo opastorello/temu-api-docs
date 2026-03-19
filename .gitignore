@@ -1,0 +1,4 @@
+.cookies
+__pycache__/
+*.pyc
+.env

@@ -2,7 +2,7 @@
 
 > Documentação da [Temu Partner API](https://partner.temu.com/documentation) em markdown — atualizada automaticamente todo dia via GitHub Actions.
 
-[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![260 arquivos](https://img.shields.io/badge/arquivos-260-blue)<!-- /badge --> <!-- badge:date -->![2026-03-21](https://img.shields.io/badge/atualizado-2026--03--21-green)<!-- /badge -->
+[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![261 arquivos](https://img.shields.io/badge/arquivos-261-blue)<!-- /badge --> <!-- badge:date -->![2026-03-22](https://img.shields.io/badge/atualizado-2026--03--22-green)<!-- /badge -->
 
 **Base URL:** `https://openapi-b-global.temu.com/openapi/router` · **Método:** `POST` · **Auth:** `app_key` + `access_token` + `timestamp` + `sign` (MD5)
 
@@ -18,7 +18,7 @@
 | `api-reference/product/` | <!-- count:product -->53<!-- /count --> | Catálogo de produtos |
 | `api-reference/order/` | <!-- count:order -->13<!-- /count --> | Pedidos |
 | `api-reference/shipping/` | <!-- count:shipping -->19<!-- /count --> | Logística e envio |
-| `api-reference/returns/` | <!-- count:returns -->11<!-- /count --> | Devoluções e pós-venda |
+| `api-reference/returns/` | <!-- count:returns -->12<!-- /count --> | Devoluções e pós-venda |
 | `api-reference/promotions/` | <!-- count:promotions -->6<!-- /count --> | Promoções |
 | `api-reference/compliance/` | <!-- count:compliance -->7<!-- /count --> | Certificações e compliance |
 | `api-reference/ads/` | <!-- count:ads -->8<!-- /count --> | Anúncios (Search & Rec) |
@@ -221,7 +221,7 @@
 | `temu.logistics.shipment.pickup.reservation.result.get` | Resultado da coleta |
 | `temu.track.trackinginfo.get` | Rastreamento |
 
-### Returns / After-sales (<!-- count:returns -->11<!-- /count --> endpoints)
+### Returns / After-sales (<!-- count:returns -->12<!-- /count --> endpoints)
 
 | Endpoint | Descrição |
 |---|---|

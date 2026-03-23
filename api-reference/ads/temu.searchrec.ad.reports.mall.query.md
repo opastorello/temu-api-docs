@@ -72,33 +72,263 @@ curl -X POST \
 ```json
 {
   "result" : {
-    "reportsItemList" : [ {
+    "summary" : {
       "ctr" : {
-        "val" : 1
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
       },
       "cartCnt" : {
-        "val" : 1
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
       },
       "clkCnt" : {
-        "val" : 1
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
       },
       "orderPayAmt" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "spend" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "orderPayCnt" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "roas" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "acos" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "transactionCost" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "goodsNum" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "imprCnt" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      },
+      "cvr" : {
+        "total" : {
+          "val" : 1
+        },
+        "ad" : {
+          "val" : 1
+        },
+        "netTotal" : {
+          "val" : 1
+        },
+        "netAd" : {
+          "val" : 1
+        }
+      }
+    },
+    "reportsItemList" : [ {
+      "totalRoas" : {
         "val" : 1
       },
       "goodsId" : 1,
       "orderPayCnt" : {
         "val" : 1
       },
-      "roas" : {
+      "transactionCost" : {
         "val" : 1
       },
-      "acos" : {
+      "netAcos" : {
+        "val" : 1
+      },
+      "totalOrderPayAmt" : {
+        "val" : 1
+      },
+      "totalGoodsNum" : {
+        "val" : 1
+      },
+      "roas" : {
         "val" : 1
       },
       "adSpend" : {
         "val" : 1
       },
+      "goodsNum" : {
+        "val" : 1
+      },
+      "netOrderPayCnt" : {
+        "val" : 1
+      },
+      "totalImprCnt" : {
+        "val" : 1
+      },
+      "cvr" : {
+        "val" : 1
+      },
+      "ctr" : {
+        "val" : 1
+      },
+      "cartCnt" : {
+        "val" : 1
+      },
+      "totalAcos" : {
+        "val" : 1
+      },
+      "netGoodsNum" : {
+        "val" : 1
+      },
+      "orderPayAmt" : {
+        "val" : 1
+      },
+      "netAdSpend" : {
+        "val" : 1
+      },
+      "totalCtr" : {
+        "val" : 1
+      },
+      "acos" : {
+        "val" : 1
+      },
+      "totalCvr" : {
+        "val" : 1
+      },
+      "totalClkCnt" : {
+        "val" : 1
+      },
       "imprCnt" : {
+        "val" : 1
+      },
+      "totalTransactionCost" : {
+        "val" : 1
+      },
+      "totalOrderPayCnt" : {
+        "val" : 1
+      },
+      "netTransactionCost" : {
+        "val" : 1
+      },
+      "clkCnt" : {
+        "val" : 1
+      },
+      "netRoas" : {
+        "val" : 1
+      },
+      "netOrderPayAmt" : {
         "val" : 1
       },
       "ts" : 1

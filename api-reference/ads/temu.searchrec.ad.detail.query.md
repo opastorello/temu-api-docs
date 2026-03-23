@@ -71,6 +71,176 @@ curl -X POST \
 {
   "result" : {
     "adsDetail" : [ {
+      "summary" : {
+        "ctr" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "cartCnt" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "clkCnt" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "orderPayAmt" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "spend" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "orderPayCnt" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "roas" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "acos" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "transactionCost" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "goodsNum" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "imprCnt" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        },
+        "cvr" : {
+          "total" : {
+            "val" : 1
+          },
+          "ad" : {
+            "val" : 1
+          },
+          "netTotal" : {
+            "val" : 1
+          },
+          "netAd" : {
+            "val" : 1
+          }
+        }
+      },
       "adPhase" : 1,
       "siteStatusInfoList" : [ {
         "forbidReason" : "test",

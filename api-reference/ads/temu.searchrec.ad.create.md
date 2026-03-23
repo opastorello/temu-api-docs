@@ -58,6 +58,7 @@ curl -X POST \
   "app_key" : "test",
   "createAdReqs" : [ {
     "roas" : 1,
+    "roasType" : 1,
     "goodsId" : 1,
     "budget" : 1
   } ],

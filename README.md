@@ -2,7 +2,7 @@
 
 > Documentação da [Temu Partner API](https://partner.temu.com/documentation) em markdown — atualizada automaticamente todo dia via GitHub Actions.
 
-[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![281 arquivos](https://img.shields.io/badge/arquivos-281-blue)<!-- /badge --> <!-- badge:date -->![2026-03-29](https://img.shields.io/badge/atualizado-2026--03--29-green)<!-- /badge -->
+[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![284 arquivos](https://img.shields.io/badge/arquivos-284-blue)<!-- /badge --> <!-- badge:date -->![2026-03-30](https://img.shields.io/badge/atualizado-2026--03--30-green)<!-- /badge -->
 
 **Base URL:** `https://openapi-b-global.temu.com/openapi/router` · **Método:** `POST` · **Auth:** `app_key` + `access_token` + `timestamp` + `sign` (MD5)
 
@@ -13,7 +13,7 @@
 | Diretório | Arquivos | Descrição |
 |---|---|---|
 | `developer-guide/` | <!-- count:developer-guide -->22<!-- /count --> | Setup, autenticação, exemplos |
-| `api-integration-guide/` | <!-- count:api-integration-guide -->125<!-- /count --> | Guias de integração por domínio |
+| `api-integration-guide/` | <!-- count:api-integration-guide -->128<!-- /count --> | Guias de integração por domínio |
 | `api-reference/authorization/` | <!-- count:authorization -->7<!-- /count --> | OAuth e tokens de acesso |
 | `api-reference/product/` | <!-- count:product -->53<!-- /count --> | Catálogo de produtos |
 | `api-reference/order/` | <!-- count:order -->13<!-- /count --> | Pedidos |

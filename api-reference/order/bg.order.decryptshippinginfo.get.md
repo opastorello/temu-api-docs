@@ -80,6 +80,7 @@ curl -X POST \
       "additionalLastName" : "test",
       "firstName" : "test",
       "lastName" : "test",
+      "contactlessDropPoint" : "test",
       "additionalFirstName" : "test"
     },
     "taxCode" : "test",

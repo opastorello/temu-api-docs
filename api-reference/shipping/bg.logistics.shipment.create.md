@@ -43,6 +43,7 @@ The bg.logistics.shipment.create interface is for sellers to place online logist
 
 | Error Code | Message |
 |---|---|
+| 120015539 | Combination failed: certain orders cannot be shipped together due to Seller Center restrictions. Please refer to Seller Central for specific rules or check with Seller Center support. |
 | 120011111 | This order uses a split channel, and the parameter `interlineShipCompanyList` is needed. |
 | 120011110 | No eligible channelId meet the specified requirements. Please check the parameters. |
 | 120012015 | Combined delivery failed since the delivery addresses for PO orders are different. |

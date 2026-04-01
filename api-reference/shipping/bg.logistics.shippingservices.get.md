@@ -150,6 +150,7 @@ curl -X POST \
         "pickupEndTime" : 1,
         "pickupStartTime" : 1
       } ],
+      "isNoContactDeliveryChannel" : true,
       "supportInterlineShipping" : true,
       "interlineChannelInfoList" : [ {
         "shipStageType" : "test",

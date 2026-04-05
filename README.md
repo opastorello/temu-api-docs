@@ -2,7 +2,7 @@
 
 > Documentação da [Temu Partner API](https://partner.temu.com/documentation) em markdown — atualizada automaticamente todo dia via GitHub Actions.
 
-[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![284 arquivos](https://img.shields.io/badge/arquivos-284-blue)<!-- /badge --> <!-- badge:date -->![2026-04-04](https://img.shields.io/badge/atualizado-2026--04--04-green)<!-- /badge -->
+[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![284 arquivos](https://img.shields.io/badge/arquivos-284-blue)<!-- /badge --> <!-- badge:date -->![2026-04-05](https://img.shields.io/badge/atualizado-2026--04--05-green)<!-- /badge -->
 
 **Base URL:** `https://openapi-b-global.temu.com/openapi/router` · **Método:** `POST` · **Auth:** `app_key` + `access_token` + `timestamp` + `sign` (MD5)
 

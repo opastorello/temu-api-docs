@@ -58,6 +58,7 @@ cooperativewarehouse_fulfill
 
 | Error Code | Message |
 |---|---|
+| 170020041 | ChannelId, shipCompanyName and logisticType not match, please check! |
 | 170020040 | The tracking number corresponding to this package does not match the trackingNumber field. |
 | 170020039 | The package number does not exist. |
 | 170020038 | The [authorizeType] is 1, and the required parameter [authorizeToken] has not been filled in |

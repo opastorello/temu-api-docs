@@ -41,6 +41,7 @@ The bg.logistic.shipment.v2.confirm interface is designed to synchronize and ret
 
 | Error Code | Message |
 |---|---|
+| 120015539 | Combination failed: certain orders cannot be shipped together due to Seller Center restrictions. Please refer to Seller Central for specific rules or check with Seller Center support. |
 | 120012004 | The order has been shipped. This submission is not effective for the shipped order. |
 | 120012015 | Combined delivery failed since the delivery addresses for PO orders are different. |
 | 120014001 | Tracking number is blank. |

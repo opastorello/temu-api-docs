@@ -40,6 +40,7 @@ The bg.logistics.shipment.shippingtype.update interface is used by sellers to up
 
 | Error Code | Message |
 |---|---|
+| 120011092 | Your store has been restricted from confirming shipment by FedEx tracking number. Please use the online buy shipping function to buy FedEx shipping label instead. |
 | 120012015 | Combined delivery failed since the delivery addresses for PO orders are different. |
 | 120012064 | The parentOrderSn is not valid for the selected selfShippingWarehouseId. |
 | 120012063 | The parentOrderSn is not valid for the selected selfShippingWarehouseId. |

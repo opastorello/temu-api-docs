@@ -41,6 +41,7 @@ The bg.logistics.shipment.sub.confirm interface should only be used in scenarios
 
 | Error Code | Message |
 |---|---|
+| 120011092 | Your store has been restricted from confirming shipment by FedEx tracking number. Please use the online buy shipping function to buy FedEx shipping label instead. |
 | 120014022 | Incorrect trackingNumber/carrierId. Please check and retry. |
 | 120014001 | Tracking number is blank. |
 | 120014023 | Tracking number is invalid: {*}. |

@@ -400,6 +400,7 @@ curl -X POST \
         "vid" : "test",
         "videoUrl" : "test"
       },
+      "goodsCarouselImage" : [ "test", "test" ],
       "carouselVideo" : {
         "vid" : "test",
         "videoUrl" : "test"

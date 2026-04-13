@@ -371,8 +371,9 @@ curl -X POST \
       "grade" : "test"
     },
     "goodsGallery" : {
-      "carouselVideoId" : "test",
       "detailVideoId" : "test",
+      "goodsCarouselImage" : [ "test", "test" ],
+      "carouselVideoId" : "test",
       "detailImage" : [ "test", "test" ]
     },
     "productType" : 1,

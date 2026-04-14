@@ -55,6 +55,7 @@ Add New Items On Temu
 
 | Error Code | Message |
 |---|---|
+| 150010300 | Attribute input is non-compliant: {*} |
 | 150011114 | Image upload failed. Please try again later. |
 | 150011113 | The product does not belong to the current store. Please check the product information before submitting. |
 | 150011112 | The product does not exist. Please reselect and submit again. |

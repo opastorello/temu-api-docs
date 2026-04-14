@@ -46,6 +46,7 @@ Add New Items On Temu
 
 | Error Code | Message |
 |---|---|
+| 150010300 | Attribute input is non-compliant: {*} |
 | 150010157 | The groupId  is required. |
 | 150011100 | The number of products that can be listed each day is limited to {*}. Reason: {*} |
 | 150011077 | {*} is invalid or not provided. |

@@ -56,6 +56,7 @@ Edit a subset of the product properties (e.g. description, brand, images, attrib
 
 | Error Code | Message |
 |---|---|
+| 150010300 | Attribute input is non-compliant: {*} |
 | 150011028 | Specification information repeated: [{*}]. |
 | 150010157 | The groupId  is required. |
 | 150011067 | Invalid preparation time. This product only supports a preparation time range of {*}-{*}. |

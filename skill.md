@@ -7,6 +7,8 @@ A Temu Partner API permite que sellers e desenvolvedores integrem suas plataform
 **Base URL:** `https://openapi-b-global.temu.com/openapi/router`
 **Método:** Todas as chamadas são `POST` com corpo JSON.
 
+> **Referência viva:** consulte o `README.md` para contagens atualizadas de endpoints e listas completas — o CI mantém esse arquivo sempre em dia.
+
 ---
 
 ## Autenticação
@@ -44,6 +46,8 @@ def sign(params: dict, app_secret: str) -> str:
 ---
 
 ## Domínios e Capacidades
+
+Para a lista completa e atualizada de endpoints por domínio, veja o `README.md` (seção **API Reference**).
 
 ### 1. Autorização (`api-reference/authorization/`)
 - Obter e renovar access tokens
@@ -163,16 +167,7 @@ Para produtos que exigem certificações ou documentos regulatórios.
 
 ---
 
-### 9. Outros (`api-reference/other/`)
-
-Endpoints miscelâneos que não se encaixam nas categorias principais.
-
-**Endpoints-chave:**
-- `temu.local.order.verification.upload` — upload de documentos para verificação de pedidos
-
----
-
-### 11. Warehouse Cooperativo (`api-reference/warehouse/`)
+### 9. Warehouse Cooperativo (`api-reference/warehouse/`)
 
 Para sellers que usam armazéns cooperativos Temu.
 
@@ -182,12 +177,25 @@ Para sellers que usam armazéns cooperativos Temu.
 
 ---
 
-### 12. Webhooks (`api-reference/webhook/`)
+### 10. Flash (`api-reference/flash/`)
+
+- `bg.flash.open.upload.recognize` — reconhecimento de imagem
+- `bg.flash.open.upload.real.image` — upload de imagem real
+
+---
+
+### 11. Webhooks (`api-reference/webhook/`)
 
 - `bg.tmc.message.update` — endpoint para receber notificações de eventos
 
 **Eventos disponíveis:** criação de pedido, mudança de status, pós-venda, estoque crítico, etc.
 Ver `api-integration-guide/the-event-of-webhook.md` para lista completa de eventos e payloads.
+
+---
+
+### 12. Outros (`api-reference/other/`)
+
+Endpoints miscelâneos que não se encaixam nas categorias principais.
 
 ---
 

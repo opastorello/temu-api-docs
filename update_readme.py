@@ -78,7 +78,12 @@ text = re.sub(
     text
 )
 
-with open(readme_path, 'w', encoding='utf-8') as f:
-    f.write(text)
+with open(readme_path, encoding='utf-8') as f:
+    original = f.read()
 
-print(f"README atualizado — {total} arquivos, {today}")
+if text != original:
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(text)
+    print(f"README atualizado — {total} arquivos, {today}")
+else:
+    print(f"README sem mudancas — {total} arquivos, {today}")

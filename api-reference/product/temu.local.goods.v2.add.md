@@ -409,6 +409,9 @@ curl -X POST \
       } ],
       "skuId" : 1,
       "outSkuSn" : "test"
+    } ],
+    "warnings" : [ {
+      "message" : "test"
     } ]
   },
   "errorCode" : 1,

@@ -45,6 +45,10 @@ Edit product qualification information
 
 | Error Code | Message |
 |---|---|
+| 150011120 | The compliance information entered incorrectly:{*} |
+| 150011119 | Invalid SKU-level governance attribute:{*} is missing. Please provide a valid specification for all SKUs. |
+| 150011118 | Invalid SKU-level governance attribute:{*} does not match the SKU specification. |
+| 150011117 | Invalid SKU-level governance attribute: specId is missing. Please provide a valid specification. |
 | 150011114 | Image upload failed. Please try again later. |
 | 150011113 | The product does not belong to the current store. Please check the product information before submitting. |
 | 150011112 | The product does not exist. Please reselect and submit again. |
@@ -92,6 +96,8 @@ Edit product qualification information
 | 150010167 | Select the responsible person. |
 | 150010168 | Responsible person is not available. |
 | 150010169 | Failed to add the responsible person. |
+| 150010183 | The compliance information cannot include Chinese characters. |
+| 150010184 | The compliance information must include letters. |
 
 ## Request Example
 

@@ -32,6 +32,7 @@ Add New Items On Temu
 | goodsOriginInfo | 6 | No |  |  |
 | goodsSize | 6 | No |  |  |
 | skuList | 8 | No |  |  |
+| referenceGoods | 6 | No |  |  |
 
 ## Response Parameters
 
@@ -313,6 +314,10 @@ curl -X POST \
     "barCodeId" : "test",
     "images" : [ "test", "test" ],
     "barCodeType" : 1,
+    "referencePrice" : {
+      "amount" : "test",
+      "currency" : "test"
+    },
     "quantity" : 1,
     "specDetails" : [ {
       "parentSpecId" : 1,
@@ -342,6 +347,10 @@ curl -X POST \
     "costTemplateId" : "test",
     "fulfillmentType" : 1,
     "shipmentLimitDay" : 1
+  },
+  "referenceGoods" : {
+    "referenceChannel" : "test",
+    "referenceMallLink" : "test"
   },
   "sign" : "test",
   "goodsSize" : {

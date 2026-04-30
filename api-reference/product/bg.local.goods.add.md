@@ -40,6 +40,7 @@ Add New Items On Temu
 | taxCodeInfo | 6 | No |  |  |
 | goodsVehiclePropertyRelation | 6 | No |  |  |
 | secondHand | 6 | No |  |  |
+| referenceGoods | 6 | No |  |  |
 | saveMode | 1 | No |  |  |
 
 ## Response Parameters
@@ -430,6 +431,10 @@ curl -X POST \
     "weight" : "test",
     "referenceLink" : "test",
     "specIdList" : [ 1, 1 ],
+    "referencePrice" : {
+      "amount" : "test",
+      "currency" : "test"
+    },
     "price" : {
       "listPriceType" : 1,
       "listPrice" : {
@@ -460,6 +465,10 @@ curl -X POST \
       "$key" : "test",
       "$value" : "test"
     }
+  },
+  "referenceGoods" : {
+    "referenceChannel" : "test",
+    "referenceMallLink" : "test"
   },
   "sign" : "test",
   "goodsSizeChartList" : {

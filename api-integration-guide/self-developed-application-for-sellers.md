@@ -24,7 +24,7 @@ Step of apply
 
 2.Select a partner type once registration is complete.
 
-![image](https://bstatic.kwcdn.com/open-outer/20237f7164/b5008d3420c92dab206923cdf72ffd22.jpg)
+![image](https://bstatic.kwcdn.com/open-outer/21137b28fb8/e87faa9c832b7f1da3e561e4478c96f9.png)
 
 If you have a self-developed system or want to apply for a self-developed app, select **'Self-developed applications seller'.** 
 

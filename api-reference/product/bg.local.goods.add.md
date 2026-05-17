@@ -56,6 +56,10 @@ Add New Items On Temu
 
 | Error Code | Message |
 |---|---|
+| 150010259 | The k-Type is wrong. |
+| 150010258 | "K-type" field exceed max count. |
+| 150010216 | The property value repeated. |
+| 150010215 | The number of property value over size. |
 | 150011120 | The compliance information entered incorrectly:{*} |
 | 150011119 | Invalid SKU-level governance attribute:{*} is missing. Please provide a valid specification for all SKUs. |
 | 150011118 | Invalid SKU-level governance attribute:{*} does not match the SKU specification. |
@@ -541,7 +545,8 @@ curl -X POST \
   "goodsVehiclePropertyRelation" : {
     "relationType" : 1,
     "relationId" : 1,
-    "leafPropertyValueDependencyIdList" : [ 1, 1 ]
+    "leafPropertyValueDependencyIdList" : [ 1, 1 ],
+    "ktype" : [ 1, 1 ]
   },
   "saveMode" : 1,
   "goodsProperty" : {

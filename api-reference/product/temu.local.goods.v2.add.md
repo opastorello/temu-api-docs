@@ -32,6 +32,7 @@ Add New Items On Temu
 | goodsOriginInfo | 6 | No |  |  |
 | goodsSize | 6 | No |  |  |
 | skuList | 8 | No |  |  |
+| goodsVehiclePropertyRelation | 6 | No |  |  |
 | referenceGoods | 6 | No |  |  |
 
 ## Response Parameters
@@ -47,6 +48,10 @@ Add New Items On Temu
 
 | Error Code | Message |
 |---|---|
+| 150010259 | The k-Type is wrong. |
+| 150010258 | "K-type" field exceed max count. |
+| 150010216 | The property value repeated. |
+| 150010215 | The number of property value over size. |
 | 150010300 | Attribute input is non-compliant: {*} |
 | 150010157 | The groupId  is required. |
 | 150011100 | The number of products that can be listed each day is limited to {*}. Reason: {*} |
@@ -391,6 +396,9 @@ curl -X POST \
   },
   "access_token" : "test",
   "app_key" : "test",
+  "goodsVehiclePropertyRelation" : {
+    "ktype" : [ 1, 1 ]
+  },
   "goodsProperty" : [ {
     "vid" : 1,
     "numberInputValue" : "test",

@@ -25,19 +25,19 @@ Query the relational database data associated with goods, such as vehicle librar
 
 | Parameter | Type | Required | Description | Example |
 |---|---|---|---|---|
-| relationType | 1 | No |  |  |
 | goodsId | 2 | No |  |  |
 | relationId | 2 | No |  |  |
+| relationType | 1 | No |  |  |
 | queryLastVersion | 5 | No |  |  |
 
 ## Response Parameters
 
 | Parameter | Type | Required | Description | Example |
 |---|---|---|---|---|
-| result | 6 | No |  |  |
 | success | 5 | No |  |  |
 | errorCode | 1 | No |  |  |
 | errorMsg | 4 | No |  |  |
+| result | 6 | No |  |  |
 
 ## Error Codes
 
@@ -74,13 +74,14 @@ curl -X POST \
 {
   "result" : {
     "relationType" : 1,
+    "relationId" : 1,
     "goodsLinkPropValList" : [ {
       "goodsPropValList" : [ {
         "propertyValue" : "test",
         "propValDepId" : 1
       } ]
     } ],
-    "relationId" : 1
+    "ktype" : "test"
   },
   "errorCode" : 1,
   "success" : true,

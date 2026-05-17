@@ -56,6 +56,10 @@ Edit a subset of the product properties (e.g. description, brand, images, attrib
 
 | Error Code | Message |
 |---|---|
+| 150010259 | The k-Type is wrong. |
+| 150010258 | "K-type" field exceed max count. |
+| 150010216 | The property value repeated. |
+| 150010215 | The number of property value over size. |
 | 150010300 | Attribute input is non-compliant: {*} |
 | 150011028 | Specification information repeated: [{*}]. |
 | 150010157 | The groupId  is required. |
@@ -415,7 +419,8 @@ curl -X POST \
   "goodsVehiclePropertyRelation" : {
     "relationType" : 1,
     "relationId" : 1,
-    "leafPropertyValueDependencyIdList" : [ 1, 1 ]
+    "leafPropertyValueDependencyIdList" : [ 1, 1 ],
+    "ktype" : [ 1, 1 ]
   },
   "saveMode" : 1,
   "goodsProperty" : {

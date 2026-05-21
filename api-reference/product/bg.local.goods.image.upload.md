@@ -29,7 +29,6 @@ Image material processing
 | scalingType | 1 | No |  |  |
 | compressionType | 1 | No |  |  |
 | formatConversionType | 1 | No |  |  |
-| autoCrop | 5 | No |  |  |
 
 ## Response Parameters
 
@@ -58,7 +57,6 @@ curl -X POST \
  -d '{
   "access_token" : "test",
   "app_key" : "test",
-  "autoCrop" : true,
   "scalingType" : 1,
   "sign" : "test",
   "data_type" : "test",

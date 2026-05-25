@@ -34,6 +34,7 @@ Add New Items On Temu
 | skuList | 8 | No |  |  |
 | goodsVehiclePropertyRelation | 6 | No |  |  |
 | referenceGoods | 6 | No |  |  |
+| certificationInfo | 6 | No |  |  |
 
 ## Response Parameters
 
@@ -348,6 +349,16 @@ curl -X POST \
     },
     "referenceLink" : "test"
   } ],
+  "certificationInfo" : {
+    "governProperty" : [ {
+      "vid" : 1,
+      "inputValue" : "test",
+      "templateId" : 1,
+      "value" : "test",
+      "refPid" : 1
+    } ],
+    "responsiblePerson" : [ 1, 1 ]
+  },
   "goodsServicePromise" : {
     "costTemplateId" : "test",
     "fulfillmentType" : 1,

@@ -98,6 +98,7 @@ Edit product qualification information
 | 150010169 | Failed to add the responsible person. |
 | 150010183 | The compliance information cannot include Chinese characters. |
 | 150010184 | The compliance information must include letters. |
+| 150010180 | The compliance information exceeds the maximum number of characters allowed. |
 
 ## Request Example
 

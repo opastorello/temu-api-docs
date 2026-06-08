@@ -73,6 +73,7 @@ curl -X POST \
     "skuList" : [ {
       "specIdList" : [ 1, 1 ],
       "images" : [ "test", "test" ],
+      "specNameList" : [ "test", "test" ],
       "externalProductType" : 1,
       "multiplePackage" : {
         "originNetContentNumber" : "test",
@@ -114,9 +115,10 @@ curl -X POST \
       "goodsId" : 1
     },
     "goodsServicePromise" : {
+      "costTemplateName" : "test",
+      "shipmentLimitDay" : 1,
       "costTemplateId" : "test",
-      "fulfillmentType" : 1,
-      "shipmentLimitDay" : 1
+      "fulfillmentType" : 1
     },
     "itemTaxCode" : "test",
     "goodsId" : 1,
@@ -173,6 +175,7 @@ curl -X POST \
       "parentSpecName" : "test",
       "valueUnitId" : 1,
       "subGroupId" : 1,
+      "attributeName" : "test",
       "numberInputValue" : "test",
       "multiLineInputValue" : [ "test", "test" ],
       "value" : "test",
@@ -191,6 +194,7 @@ curl -X POST \
     } ],
     "outGoodsSn" : "test",
     "saveModeStatus" : 1,
+    "catName" : "test",
     "bulletPoints" : [ "test", "test" ],
     "goodsName" : "test",
     "secondHand" : {
@@ -216,6 +220,8 @@ curl -X POST \
     "goodsDesc" : "test",
     "goodsTrademark" : {
       "trademarkBizId" : 1,
+      "brandName" : "test",
+      "trademarkName" : "test",
       "trademarkId" : 1,
       "brandId" : 1
     },

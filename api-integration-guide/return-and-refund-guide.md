@@ -26,7 +26,11 @@ Initiate an appeal to file a claim is not supported.
 
 **API workflow**
 
-![image](https://bstatic.kwcdn.com/open-outer/21a488cbd6/e377a3f9bf4b00c6167add7e4419438f)
+![image](https://bstatic.kwcdn.com/open-outer/2123a66634/0440eb2d9659b62e1db8389836562242.png)
+
+**Note: **
+
+During the return label upload process, Temu requires that the label file be uploaded via [/api/galerie/general_file](https://partner.temu.com/documentation?menu_code=38e79b35d2cb463d85619c1c786dd303&sub_menu_code=5bb50d82c08740688068d960977f8d52) before calling `temu.aftersales.upload.returnlabel`.
 
 #### 
 

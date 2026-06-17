@@ -108,7 +108,9 @@ curl -X POST \
       "skuStatus" : "test",
       "specList" : [ {
         "specId" : 1,
-        "parentSpecId" : 1
+        "parentSpecName" : "test",
+        "parentSpecId" : 1,
+        "specName" : "test"
       } ],
       "catType" : 1,
       "restrictedTrafficTag" : 1,
@@ -130,6 +132,7 @@ curl -X POST \
       },
       "outSkuSn" : "test",
       "thumbUrl" : "test",
+      "stock" : 1,
       "goodsName" : "test",
       "skuStatusChangeTime" : 1,
       "skuId" : "test"

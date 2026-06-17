@@ -157,22 +157,29 @@ curl -X POST \
   "type" : "test",
   "certificateInfo" : {
     "certificateDetailList" : [ {
-      "authCodes" : [ {
-        "authCode" : "test"
-      } ],
       "certType" : 1,
-      "skip" : true,
       "certFiles" : [ {
         "fileName" : "test",
         "fileUrl" : "test",
         "language" : "test"
       } ],
+      "authCode" : "test",
+      "uploadedContents" : [ {
+        "templateId" : 1,
+        "details" : [ {
+          "value" : [ "test", "test" ],
+          "refPid" : 1
+        } ]
+      } ],
+      "authCodes" : [ {
+        "authCode" : "test"
+      } ],
+      "skip" : true,
       "inspectReportFiles" : [ {
         "fileName" : "test",
         "fileUrl" : "test",
         "language" : "test"
-      } ],
-      "authCode" : "test"
+      } ]
     } ]
   },
   "version" : "test",

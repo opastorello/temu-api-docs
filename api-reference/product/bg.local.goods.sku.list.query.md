@@ -97,7 +97,9 @@ curl -X POST \
       "subStatus4VO" : 1,
       "specList" : [ {
         "specId" : 1,
-        "parentSpecId" : 1
+        "parentSpecName" : "test",
+        "parentSpecId" : 1,
+        "specName" : "test"
       } ],
       "crtTime" : 1,
       "restrictedTrafficTag" : 1,

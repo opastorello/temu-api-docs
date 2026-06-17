@@ -150,7 +150,19 @@ curl -X POST \
           "languageName" : "test"
         } ],
         "contentType" : 1,
-        "rejectReasons" : [ "test", "test" ]
+        "rejectReasons" : [ "test", "test" ],
+        "needUploadContent" : {
+          "templateId" : 1,
+          "needUploadSubItems" : [ {
+            "propertyName" : "test",
+            "uploadExample" : {
+              "uploadExamplePicUrl" : [ "test", "test" ],
+              "uploadRequire" : "test"
+            },
+            "required" : true,
+            "refPid" : 1
+          } ]
+        }
       } ]
     } ],
     "actualPhotoRequirement" : [ {

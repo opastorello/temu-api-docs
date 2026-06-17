@@ -2,7 +2,7 @@
 
 > Documentação da [Temu Partner API](https://partner.temu.com/documentation) em markdown — atualizada automaticamente todo dia via GitHub Actions.
 
-[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![287 arquivos](https://img.shields.io/badge/arquivos-287-blue)<!-- /badge --> <!-- badge:date -->![2026-06-16](https://img.shields.io/badge/atualizado-2026--06--16-green)<!-- /badge -->
+[![CI](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml/badge.svg)](https://github.com/opastorello/temu-api-docs/actions/workflows/update-docs.yml) <!-- badge:files -->![289 arquivos](https://img.shields.io/badge/arquivos-289-blue)<!-- /badge --> <!-- badge:date -->![2026-06-17](https://img.shields.io/badge/atualizado-2026--06--17-green)<!-- /badge -->
 
 **Base URL:** `https://openapi-b-global.temu.com/openapi/router` · **Método:** `POST` · **Auth:** `app_key` + `access_token` + `timestamp` + `sign` (MD5)
 
@@ -13,9 +13,9 @@
 | Diretório | Arquivos | Descrição |
 |---|---|---|
 | `developer-guide/` | <!-- count:developer-guide -->22<!-- /count --> | Setup, autenticação, exemplos |
-| `api-integration-guide/` | <!-- count:api-integration-guide -->129<!-- /count --> | Guias de integração por domínio |
+| `api-integration-guide/` | <!-- count:api-integration-guide -->130<!-- /count --> | Guias de integração por domínio |
 | `api-reference/authorization/` | <!-- count:authorization -->7<!-- /count --> | OAuth e tokens de acesso |
-| `api-reference/product/` | <!-- count:product -->55<!-- /count --> | Catálogo de produtos |
+| `api-reference/product/` | <!-- count:product -->56<!-- /count --> | Catálogo de produtos |
 | `api-reference/order/` | <!-- count:order -->13<!-- /count --> | Pedidos |
 | `api-reference/shipping/` | <!-- count:shipping -->19<!-- /count --> | Logística e envio |
 | `api-reference/returns/` | <!-- count:returns -->12<!-- /count --> | Devoluções e pós-venda |
@@ -123,7 +123,7 @@
 | `bg.open.accesstoken.info.get` | Consultar / renovar token |
 | `temu.local.mall.tags.get` | Obter tags e configurações da loja |
 
-### Product (<!-- count:product -->55<!-- /count --> endpoints)
+### Product (<!-- count:product -->56<!-- /count --> endpoints)
 
 | Endpoint | Descrição |
 |---|---|

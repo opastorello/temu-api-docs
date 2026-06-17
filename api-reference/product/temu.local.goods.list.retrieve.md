@@ -107,8 +107,11 @@ curl -X POST \
       "skuInfoList" : [ {
         "specList" : [ {
           "specId" : 1,
-          "parentSpecId" : 1
+          "parentSpecName" : "test",
+          "parentSpecId" : 1,
+          "specName" : "test"
         } ],
+        "stock" : 1,
         "skuId" : 1,
         "skuSn" : "test"
       } ],

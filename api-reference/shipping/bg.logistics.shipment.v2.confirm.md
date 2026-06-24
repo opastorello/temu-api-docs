@@ -41,6 +41,7 @@ The bg.logistic.shipment.v2.confirm interface is designed to synchronize and ret
 
 | Error Code | Message |
 |---|---|
+| 120012035 | Your store has been restricted from using the Confirm shipment function. Because your store has a high number of packages that were marked delivered but not actually received by customers. |
 | 120011114 | Your store has been restricted from confirming shipment by Purolator tracking number. Please use the online buy shipping function to buy Purolator shipping label instead. |
 | 120011092 | Your store has been restricted from confirming shipment by FedEx tracking number. Please use the online buy shipping function to buy FedEx shipping label instead. |
 | 120015539 | Combination failed: certain orders cannot be shipped together due to Seller Center restrictions. Please refer to Seller Central for specific rules or check with Seller Center support. |

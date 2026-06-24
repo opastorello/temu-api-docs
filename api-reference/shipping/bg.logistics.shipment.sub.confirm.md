@@ -41,6 +41,7 @@ The bg.logistics.shipment.sub.confirm interface should only be used in scenarios
 
 | Error Code | Message |
 |---|---|
+| 120012035 | Your store has been restricted from using the Confirm shipment function. Because your store has a high number of packages that were marked delivered but not actually received by customers. |
 | 120011114 | Your store has been restricted from confirming shipment by Purolator tracking number. Please use the online buy shipping function to buy Purolator shipping label instead. |
 | 120011092 | Your store has been restricted from confirming shipment by FedEx tracking number. Please use the online buy shipping function to buy FedEx shipping label instead. |
 | 120014022 | Incorrect trackingNumber/carrierId. Please check and retry. |

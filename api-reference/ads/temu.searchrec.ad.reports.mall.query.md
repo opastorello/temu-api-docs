@@ -292,6 +292,9 @@ curl -X POST \
       "netGoodsNum" : {
         "val" : 1
       },
+      "totalCartCnt" : {
+        "val" : 1
+      },
       "orderPayAmt" : {
         "val" : 1
       },

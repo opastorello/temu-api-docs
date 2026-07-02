@@ -427,6 +427,13 @@ curl -X POST \
     "images" : [ "test", "test" ],
     "quantity" : 1,
     "externalProductType" : 1,
+    "references" : {
+      "note" : [ "test", "test" ],
+      "code" : {
+        "name" : "test",
+        "id" : "test"
+      }
+    },
     "multiplePackage" : {
       "originNetContentNumber" : "test",
       "numberOfPieces" : 1,

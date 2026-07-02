@@ -330,6 +330,13 @@ curl -X POST \
       "specId" : 1,
       "specName" : "test"
     } ],
+    "references" : {
+      "note" : [ "test", "test" ],
+      "code" : {
+        "name" : "test",
+        "id" : "test"
+      }
+    },
     "externalSkuId" : "test",
     "price" : {
       "listPrice" : {

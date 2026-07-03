@@ -2,7 +2,7 @@
 
 **Get order amount api**
 
-Provide the supply price information corresponding to the orders for the self-developed ERP. This API is currently available only for the Japan and Korea sites.
+Provide the supply price information corresponding to the orders for the self-developed ERP. This API is currently available only in select marketplaces.
 
 **Method:** POST  
 **URL:** https://openapi-b-global.temu.com/openapi/router
@@ -40,7 +40,7 @@ Provide the supply price information corresponding to the orders for the self-de
 
 | Error Code | Message |
 |---|---|
-| 140020015 | This API is currently available only for the Japan and South Korea sites. |
+| 140020015 | This API is currently available only in select marketplaces. |
 | 140020002 | Order not found |
 | 140020008 | Some amount fields are still undergoing system calculation. Please try again later. |
 

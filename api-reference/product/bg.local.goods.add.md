@@ -464,6 +464,7 @@ curl -X POST \
         "currency" : "test"
       }
     },
+    "externalProductIdList" : [ "test", "test" ],
     "width" : "test",
     "outSkuSn" : "test",
     "externalProductId" : "test",

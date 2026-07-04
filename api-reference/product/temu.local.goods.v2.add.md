@@ -354,7 +354,8 @@ curl -X POST \
       "weight" : "test",
       "height" : "test"
     },
-    "referenceLink" : "test"
+    "referenceLink" : "test",
+    "barCodeIdList" : [ "test", "test" ]
   } ],
   "certificationInfo" : {
     "governProperty" : [ {

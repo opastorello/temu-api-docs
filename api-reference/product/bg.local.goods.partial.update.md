@@ -322,6 +322,7 @@ curl -X POST \
     "weight" : "test",
     "referenceLink" : "test",
     "specIdList" : [ 1, 1 ],
+    "externalProductIdList" : [ "test", "test" ],
     "width" : "test",
     "outSkuSn" : "test",
     "externalProductId" : "test",

@@ -71,9 +71,7 @@ curl -X POST \
   "result" : {
     "customized" : true,
     "skuList" : [ {
-      "specIdList" : [ 1, 1 ],
       "images" : [ "test", "test" ],
-      "specNameList" : [ "test", "test" ],
       "externalProductType" : 1,
       "multiplePackage" : {
         "originNetContentNumber" : "test",
@@ -85,6 +83,10 @@ curl -X POST \
         "pieceUnitCode" : 1,
         "originTotalNetContentNumber" : "test"
       },
+      "barCodeList" : [ {
+        "barCodeType" : 1,
+        "barCodeIdList" : [ "test", "test" ]
+      } ],
       "productExpressInfo" : {
         "weightInfo" : {
           "weight" : "test",
@@ -97,13 +99,15 @@ curl -X POST \
           "height" : "test"
         }
       },
+      "referenceLink" : "test",
+      "specIdList" : [ 1, 1 ],
+      "specNameList" : [ "test", "test" ],
       "outSkuSn" : "test",
       "externalProductId" : "test",
       "retailPrice" : {
         "amount" : "test",
         "currency" : "test"
       },
-      "referenceLink" : "test",
       "skuId" : 1,
       "listPrice" : {
         "amount" : "test",

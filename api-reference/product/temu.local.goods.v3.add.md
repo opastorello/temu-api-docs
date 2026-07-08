@@ -124,10 +124,12 @@ curl -X POST \
   "version" : "test",
   "timestamp" : "test",
   "goodsBasic" : {
+    "shipmentLimitDay" : 1,
+    "extCatName" : "test",
     "externalGoodsId" : "test",
     "goodsCarouselImage" : [ "test", "test" ],
     "goodsName" : "test",
-    "extCatName" : "test",
+    "productType" : 1,
     "goodsDesc" : "test",
     "detailImage" : [ "test", "test" ]
   }

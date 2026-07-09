@@ -43,6 +43,9 @@ The bg.logistics.shipment.create interface is for sellers to place online logist
 
 | Error Code | Message |
 |---|---|
+| 120015533 | The order with "Y2_advance_sale" orderLabel and the order without "Y2_advance_sale" orderLabel can't be fulfilled simultaneously. |
+| 120015532 | shipLaterLimitTime is invalid, please check the valid value for orders with "Y2_advance_sale" orderLabel. |
+| 120015534 | Order with "Y2_advance_sale" orderLabel should set "shipLater=true" when fulfilled by Temu integrated logistics. |
 | 120015539 | Combination failed: certain orders cannot be shipped together due to Seller Center restrictions. Please refer to Seller Central for specific rules or check with Seller Center support. |
 | 120011111 | This order uses a split channel, and the parameter `interlineShipCompanyList` is needed. |
 | 120011110 | No eligible channelId meet the specified requirements. Please check the parameters. |

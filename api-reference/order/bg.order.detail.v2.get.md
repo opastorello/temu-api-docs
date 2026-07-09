@@ -118,6 +118,7 @@ curl -X POST \
       "skuId" : 1,
       "canceledQuantityBeforeShipment" : 1,
       "quantity" : 1,
+      "earliestTimeGetShippingDocument" : 1,
       "orderCreateTime" : 1,
       "inventoryDeductionWarehouseId" : "test",
       "originalGoodsName" : "test",

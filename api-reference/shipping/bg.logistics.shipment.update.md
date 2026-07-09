@@ -41,6 +41,9 @@ The bg.logistics.shipment.update interface is for sellers to create shipment log
 
 | Error Code | Message |
 |---|---|
+| 120015533 | The order with "Y2_advance_sale" orderLabel and the order without "Y2_advance_sale" orderLabel can't be fulfilled simultaneously. |
+| 120015532 | shipLaterLimitTime is invalid, please check the valid value for orders with "Y2_advance_sale" orderLabel. |
+| 120015534 | Order with "Y2_advance_sale" orderLabel should set "shipLater=true" when fulfilled by Temu integrated logistics. |
 | 120018078 | Cannot set shipLaterLimitTime: order was created for immediate shipment. |
 | 120011018 | Orders with "signature_required_on_delivery" can only buy shipping label from the channel which provide signature service,please call "bg.logistics.shippingservices.get" to get the recommended channels. |
 | 120015507 | Wrong package {*} information. Try again. |

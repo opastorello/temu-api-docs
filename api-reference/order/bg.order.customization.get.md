@@ -40,6 +40,7 @@ Self developed sellers and third-party ISVs obtain customized product content in
 
 | Error Code | Message |
 |---|---|
+| 120020006 | The maximum viewing time has been exceeded. |
 | 120020001 | API service exception, please try again later. |
 | 120020002 | Invalid request. |
 | 120020003 | There are no orderSns in body. |

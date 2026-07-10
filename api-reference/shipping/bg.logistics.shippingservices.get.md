@@ -52,6 +52,7 @@ The bg.logistics.shippingservices.get interface is for sellers to retrieve suppo
 
 | Error Code | Message |
 |---|---|
+| 120015051 | Buy shipping is not supported. Please use confirming shipment for this order instead. |
 | 120015507 | Wrong package {*} information. Try again. |
 | 120011101 | The invoice has expired. |
 | 120011102 | The CNPJ on the invoice does not match the current entity's CNPJ. |

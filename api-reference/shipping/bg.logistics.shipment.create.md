@@ -43,6 +43,7 @@ The bg.logistics.shipment.create interface is for sellers to place online logist
 
 | Error Code | Message |
 |---|---|
+| 120015051 | Buy shipping is not supported. Please use confirming shipment for this order instead. |
 | 120015533 | The order with "Y2_advance_sale" orderLabel and the order without "Y2_advance_sale" orderLabel can't be fulfilled simultaneously. |
 | 120015532 | shipLaterLimitTime is invalid, please check the valid value for orders with "Y2_advance_sale" orderLabel. |
 | 120015534 | Order with "Y2_advance_sale" orderLabel should set "shipLater=true" when fulfilled by Temu integrated logistics. |

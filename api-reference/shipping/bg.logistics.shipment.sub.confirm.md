@@ -41,6 +41,7 @@ The bg.logistics.shipment.sub.confirm interface should only be used in scenarios
 
 | Error Code | Message |
 |---|---|
+| 120011119 | Your store has been restricted from confirming shipment by intelcom tracking number. Please use the online buy shipping function to buy intelcom shipping label instead. |
 | 120015577 | Orders cannot be consolidated for shipment. |
 | 120012076 | Your store's shipping function has been adjusted. Please use online order placement for fulfillment. For details, please refer to the in-site notification regarding the use of "Manual Waybill Import" and "Online Booking" for shipping. |
 | 120012035 | Your store has been restricted from using the Confirm shipment function. Because your store has a high number of packages that were marked delivered but not actually received by customers. |

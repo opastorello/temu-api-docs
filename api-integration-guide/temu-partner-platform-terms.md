@@ -2,7 +2,7 @@
 
 **Temu Partner Platform Terms**
 
-July* *17, 2026
+July 21, 2026
 
 These Temu Partner Platform Terms (including other rules, specifications, Policies (as defined below) applicable to you that we publish from time to time, collectively, these “**Terms**”) contain the terms and conditions that govern your access to and use of the internet information technology services, software technology services and other related services provided by us or our Affiliates through the US Temu Partner Platform (as defined below), EU Temu Partner Platform (as defined below), and Global Temu Partner Platform (as defined below) (collectively, the “**Temu Partner Platform(s)**”), including Platform Services API (as defined below), API Materials (as defined below) and all Temu Partner Platform related products and/or services (collectively, “**Platform Services**”), which you may access and use through your account in Temu Partner Platform (“**Account**”). 
 

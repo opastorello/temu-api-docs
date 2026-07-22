@@ -857,6 +857,65 @@ How to Effectively Use the Product Add API V3
 
 ```
 
+![image](https://bstatic.kwcdn.com/open-outer/217a7c27d8/f6fb096976e9312cd4b833254d9d17b3)
+
+```
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+```
+
+![image](https://bstatic.kwcdn.com/open-outer/217a7c27d8/f7745e328b042967f6cb0d65b95f0006)
+
+```
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+```
+
+![image](https://bstatic.kwcdn.com/open-outer/217a7c27d8/5f8f95e4f0486bdb7c654b6fdcde710d)
+
+```
+  
+  
+  
+  
+  
+  
+  
+
+```
+
 | Product Content | Expected Objective |  |
 |---|---|---|
 | Basic Product Information | Providing complete basic product information helps better identify and enrich the following fields:CategoryAttributesBrandSpecificationsNet content and other related informationProduct TypeShipment limit day | "goodsBasic": {        "goodsName": "test XXX",        "externalGoodsId": "goodssn0610003",        "goodsDesc": "XXXXX",        "extCatName": "lm Office Products / Office & School Supplies / Tape, Adhesives & Fasteners / Tape / Packaging Tape",        "goodsCarouselImage": [            "https://s11.aconvert.com/convert/p3r68-cdx67/dopcc-dtvgs.jpg"        ],        "detailImage": [            "https://s11.aconvert.com/convert/p3r68-cdx67/yr4eb-v8em1.jpg"        ]        "productType": 1,        "shipmentLimitDay": 2    }, |
@@ -869,6 +928,9 @@ How to Effectively Use the Product Add API V3
 | Product Service Information | This section does not require merchant input. The system will automatically populate default values. | Fulfillment Time: 2 daysFulfillment Method: Merchant shippingShipping Template: Default shipping template under the store |
 | Product Identifier | The system will use externalSkuId as the default product identifier. No additional input is required. |  |
 | Compliance Attributes / Manufacturer Information | Compliance attributes and manufacturer information will be automatically extracted based on the product title, description, and attributes provided by the merchant. | "goodsBasic": {        "goodsName": "test XXX",        "externalGoodsId": "goodssn0610003",        "goodsDesc": "age:5 years+. Overview Details Content: High-quality medical skin care for sensitive skin. Cream for application on the skin. Dermocosmetic from the pharmacy. Manufacturer: Shenzhen Zhilian Shengya Electronic Technology Co., Ltd. Germany (Original product from Germany). PZN: 08712740, PZN: 8712740. Product properties: for dry and very dry skin, intensely replenishing lipids - provides moisture for 24 hours, makes the skin noticeably smooth and supple. For the natural regeneration of the skin. Balneum Intensiv Creme was specifically developed to maintain the natural protective function of dry and very dry skin. The cream contains substances naturally present in the skin: urea, ceramides, and physiological lipids (3 in) - which may be reduced in dry skin. Free from dyes, fragrances, and preservatives (3 out), therefore particularly skin-friendly. In this way, the fat and moisture content of the skin is regulated and the natural skin barrier function is maintained. The rich cream provides moisture for 24 hours and thus protects it from further moisture loss. Feelings of tightness disappear, the skin becomes noticeably smooth and supple. Recommended by dermatologists. Clinically tested efficacy. Composition according to INCI: Aqua, Glycine Soja, Propylene Glycol, Cetearyl Alcohol, Paraffinum Liquidum, Urea, Isohexadecane, Sodium Lactate, PEG-20 Stearate, Lactic Acid, Polysorbate 60, Squalane, Stearic Acid, Ceramide 3, Lecithin, Tocopherol, Ascorbyl Palmitate, Hydrogenated Palm Glycerides Citrate, Disodium EDTA. Source: Information from the packaging. Status: 04/2017",    } |
+| Brand | Please ensure that the information provided is the same as the trademark name registered in the Temu Seller Center. | {    "attributes": [        {            "name": "Brand",            "value": [                "damontest_mark"            ]        },    ],} |
+| Country/Region of Origin | For China, the province/city is entered; for other countries, the country name is entered. | {    "attributes": [        //All three formats are supported.        {            "name": "Country/Region of Origin",            "value": [                "guangzhou"            ]        },    ],    "attributes": [        {            "name": "Origin",            "value": [                "germany"            ]        },    ],    "attributes": [        {            "name": "Country",            "value": [                "France"            ]        },    ],} |
+| K-Type | Providing the correct K-Type encoding can automatically populate the supported vehicle model library for products. | "attributes": [        {            "name": "ktype",            "value": [                "123456"            ]        },    ], |
 
 ## 
 

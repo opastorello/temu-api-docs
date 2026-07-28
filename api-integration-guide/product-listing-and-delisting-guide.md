@@ -1,6 +1,6 @@
 # Product Listing and Delisting Guide
 
-# 
+## 
 
 bg.local.goods.sku.list.query
 
@@ -121,7 +121,7 @@ Parameters Enum in Detail
 
 ### 
 
-statusFilterType / StatusFilterEnum / subStatus4VO
+statusFilterType / subStatus4VO
 
 | Enum | Code | Description |
 |---|---|---|
@@ -142,7 +142,7 @@ statusFilterType / StatusFilterEnum / subStatus4VO
 
 ### 
 
-SkuSubStatusFilterEnum
+skuSubStatusFilterType
 
 ``
 
@@ -165,7 +165,7 @@ SkuSubStatusFilterEnum
 
 ### 
 
-GoodsSubStatusShowEnum
+skuShowSubStatus4VO / goodsShowSubStatus
 
 | Enum | Code | Description |
 |---|---|---|

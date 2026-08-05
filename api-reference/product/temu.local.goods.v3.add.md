@@ -43,7 +43,8 @@ Post products to temu and automatically populate the database based on the origi
 
 | Error Code | Message |
 |---|---|
-| 150010260 | No results for category recommendations, please complete the product information and try again. |
+| 150010261 | The recommended categories cannot be sold. Category: {*} |
+| 150010260 | No categories are recommended. Please complete product name and try again. |
 | 150011018 | Price currency {*} can have at most {*} decimal points. |
 | 150011019 | The input {*}:{*} is incorrect, please modify it. |
 | 150011020 | There is an abnormal number of product operations. Related actions have been temporarily restricted for today. If you have any questions, please contact your sales representative for help. |
@@ -126,7 +127,9 @@ curl -X POST \
   "goodsBasic" : {
     "shipmentLimitDay" : 1,
     "extCatName" : "test",
+    "costTemplate" : "test",
     "externalGoodsId" : "test",
+    "bulletPoints" : [ "test", "test" ],
     "goodsCarouselImage" : [ "test", "test" ],
     "goodsName" : "test",
     "productType" : 1,

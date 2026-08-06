@@ -68,6 +68,7 @@ Post products to temu and automatically populate the database based on the origi
 | 150011003 | Invalid Request Parameters [{*}] |
 | 150010084 | Invalid currency |
 | 150011034 | The value of {*} is empty. Please check and enter correctly. |
+| 150010042 | Category unavailable |
 
 ## Request Example
 

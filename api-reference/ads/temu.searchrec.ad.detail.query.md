@@ -277,6 +277,10 @@ curl -X POST \
           "val" : 1
         }
       },
+      "adShowStatusList" : [ {
+        "forbidReason" : "test",
+        "adShowStatus" : 1
+      } ],
       "roas" : 1,
       "adShowStatus" : 1,
       "budget" : 1

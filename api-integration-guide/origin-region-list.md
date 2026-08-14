@@ -99,7 +99,7 @@ Origin Region 1
 | Guinea-Bissau |
 | Guyana |
 | Haiti |
-| Holy See |
+| Vatican City State (Holy See) |
 | Honduras |
 | Hungary |
 | Iceland |
@@ -191,7 +191,7 @@ Origin Region 1
 | Seychelles |
 | Sierra Leone |
 | Singapore |
-| Slovakia |
+| SlovakiaSlovakia (Slovak Republic) |
 | Slovenia |
 | Solomon Islands |
 | Somalia |
@@ -230,7 +230,7 @@ Origin Region 1
 | Vietnam |
 | Virgin Islands (British) |
 | Virgin Islands (U.S.) |
-| Wallis and Futuna |
+| Wallis And Futuna Islands |
 | Western Sahara |
 | Yemen |
 | Yugoslavia |

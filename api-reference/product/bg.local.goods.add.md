@@ -418,6 +418,7 @@ curl -X POST \
     },
     "repInfo" : {
       "repDetailList" : [ {
+        "nameList" : [ "test", "test" ],
         "complianceRepType" : 1,
         "repIdList" : [ 1, 1 ]
       } ]

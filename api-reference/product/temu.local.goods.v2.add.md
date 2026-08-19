@@ -365,7 +365,8 @@ curl -X POST \
       "value" : "test",
       "refPid" : 1
     } ],
-    "responsiblePerson" : [ 1, 1 ]
+    "responsiblePerson" : [ 1, 1 ],
+    "respNameList" : [ "test", "test" ]
   },
   "goodsServicePromise" : {
     "costTemplateId" : "test",

@@ -102,6 +102,16 @@ curl -X POST \
       "referenceLink" : "test",
       "specIdList" : [ 1, 1 ],
       "specNameList" : [ "test", "test" ],
+      "price" : {
+        "retailPrice" : {
+          "amount" : "test",
+          "currency" : "test"
+        },
+        "listPrice" : {
+          "amount" : "test",
+          "currency" : "test"
+        }
+      },
       "outSkuSn" : "test",
       "externalProductId" : "test",
       "retailPrice" : {

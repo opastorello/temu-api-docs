@@ -110,6 +110,10 @@ Guide sellers to authorize the required events for your application in the **Sel
 
 Use the **Message Push API Group（**[**bg.tmc.message.update**](https://partner.temu.com/documentation?menu_code=fb16b05f7a904765aac4af3a24b87d4a&sub_menu_code=6e5817f037534093ba2dd91399aeff46)**） **to subscribe to events on behalf of the seller.
 
+- 
+
+The seller can verify whether the subscription has been completed by calling [`bg.open.accesstoken.info.get`](https://partner.temu.com/documentation?menu_code=fb16b05f7a904765aac4af3a24b87d4a&sub_menu_code=93de550b56c8417caccb88824be3e614). In the response, the `authEventCodeList` field indicates whether event subscriptions are enabled: `0`: Event receiving is disabled; `1`: Event receiving is enabled
+
 ---
 
 #### 

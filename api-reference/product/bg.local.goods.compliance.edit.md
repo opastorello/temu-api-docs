@@ -45,6 +45,7 @@ Edit product qualification information
 
 | Error Code | Message |
 |---|---|
+| 150010043 | Chinese characters not allowed in text |
 | 150011120 | The compliance information entered incorrectly:{*} |
 | 150011119 | Invalid SKU-level governance attribute:{*} is missing. Please provide a valid specification for all SKUs. |
 | 150011118 | Invalid SKU-level governance attribute:{*} does not match the SKU specification. |

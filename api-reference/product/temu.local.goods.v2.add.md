@@ -137,7 +137,7 @@ Add New Items On Temu
 | 150010227 | The value should be between 0 and 10000. |
 | 150010228 | Unsupported value for Unit type. |
 | 150010223 | Second-hand stores can only list books and consumer electronics. |
-| 150010230 | For used-product, "Condiiton" field is required. |
+| 150010230 | For used-product, "Condition" field is required. |
 | 150010231 | The "Condition" field cannot be edited after the product is published. |
 | 150010232 | The "Condition" field should not be filled in for this product. |
 | 150010175 | The current product does not have permission to be linked to the selected shipping template. |

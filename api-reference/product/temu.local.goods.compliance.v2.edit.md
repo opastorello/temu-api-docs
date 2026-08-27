@@ -229,7 +229,7 @@ edit goods compliance interface v2 version
 | 150010175 | The current product does not have permission to be linked to the selected shipping template. |
 | 150010232 | The "Condition" field should not be filled in for this product. |
 | 150010231 | The "Condition" field cannot be edited after the product is published. |
-| 150010230 | For used-product, "Condiiton" field is required. |
+| 150010230 | For used-product, "Condition" field is required. |
 | 150010223 | Second-hand stores can only list books and consumer electronics. |
 | 150010233 | The product is participating in an activity or the activity's cool-down period still applies to the product. Price adjustment to a lower level is not available. |
 | 150010224 | Unsupported value for Unit count. |

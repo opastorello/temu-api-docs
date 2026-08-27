@@ -114,7 +114,7 @@ Edit all properties (e.g. description, brand, images, attributes) of a product.
 | 150010228 | Unsupported value for Unit type. |
 | 150010232 | The "Condition" field should not be filled in for this product. |
 | 150010231 | The "Condition" field cannot be edited after the product is published. |
-| 150010230 | For used-product, "Condiiton" field is required. |
+| 150010230 | For used-product, "Condition" field is required. |
 | 150010223 | Second-hand stores can only list books and consumer electronics. |
 | 150011003 | Invalid Request Parameters [{*}] |
 | 150010002 | System error, please try again later |

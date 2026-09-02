@@ -199,7 +199,7 @@ POST form-data
 |---|---|---|---|
 | sign | string | Marks the ID of this large file upload (returned during the init phase) | Yes |
 | part_num | string | The current chunk number, starting from 1 | Yes |
-| part_file | file | The content of the current chunk file | Yes |
+| part_file | file | The file content of the part. It supports up to 10,000 parts, with each part ranging from 5 MB to 20 MB. The part size must be a multiple of 5 MB (e.g., 5 MB, 10 MB, 15 MB or 20 MB). No limitaion on the last part of file. | Yes |
 
 **Return Values**
 
@@ -243,6 +243,8 @@ POST JSON
 # 
 
 General File Upload
+
+Description: File upload for files that are 20 MB or less
 
 **API**
 
@@ -309,6 +311,8 @@ curl --location --request POST 'http://${endpoint}/api/galerie/general_file' \
 
 Large File Upload
 
+Description: File upload for files larger than 20 MB
+
 ## 
 
 Initialization of Chunked Upload 
@@ -370,7 +374,7 @@ Upload Part
 | upload_sign | string | The signature obtained from the signature API. Please refer to bg.local.goods.gallery.signature.get for details on how to obtain it. | Yes |
 | total_part_num | string | Each part request can carry multiple part contents, and this parameter indicates the total number of parts in this part request. Each part in the request corresponds to a part_numx, part_filex, content_md5x, where x starts from 1. | Yes |
 | part_num1 | string | The number "1" in the key of the parameter "part_num1" indicates the number of the current part in this part request. The parameter represents the part number (relative to the entire large file, also starting from 1). | Yes |
-| part_file1 | string | The file content of the part. It supports a maximum of 10,000 parts, each with a size of 5MB to 5GB. The last part can be less than 5MB. Similarly, the number "1" in the parameter "part_file1" indicates the number of the current part in this part request. We allow a part request to carry multiple parts. | Yes |
+| part_file1 | string | The file content of the part. It supports up to 10,000 parts, with each part ranging from 5 MB to 20 MB. The part size must be a multiple of 5 MB (e.g., 5 MB, 10 MB, 15 MB or 20 MB). No limitaion on the last part of file. Similarly, the number "1" in the parameter "part_file1" indicates the number of the current part in this part request. We allow a part request to carry multiple parts. | Yes |
 
 **Example**
 

@@ -197,7 +197,8 @@ curl -X POST \
     } ],
     "goodsOriginInfo" : {
       "originRegionName1" : "test",
-      "originRegionName2" : "test"
+      "originRegionName2" : "test",
+      "manufacturingLocations" : [ "test", "test" ]
     },
     "importDesignation" : "test",
     "subStatus" : 1,

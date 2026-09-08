@@ -28,6 +28,7 @@ Advertisement goods data report (goods dimension)
 | startTs | 2 | No |  |  |
 | endTs | 2 | No |  |  |
 | goodsId | 2 | No |  |  |
+| selectedAdManagedType | 1 | No |  |  |
 
 ## Response Parameters
 
@@ -63,6 +64,7 @@ curl -X POST \
   "data_type" : "test",
   "endTs" : 1,
   "startTs" : 1,
+  "selectedAdManagedType" : 1,
   "type" : "test",
   "version" : "test",
   "timestamp" : "test"

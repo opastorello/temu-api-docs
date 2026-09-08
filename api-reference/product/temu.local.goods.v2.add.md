@@ -385,7 +385,8 @@ curl -X POST \
   "language" : "test",
   "goodsOriginInfo" : {
     "originRegion2" : "test",
-    "originRegion1" : "test"
+    "originRegion1" : "test",
+    "manufacturingLocations" : [ "test", "test" ]
   },
   "type" : "test",
   "version" : "test",

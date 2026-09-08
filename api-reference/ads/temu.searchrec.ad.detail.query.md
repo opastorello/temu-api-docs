@@ -26,6 +26,7 @@ Advertising campaign details query
 | Parameter | Type | Required | Description | Example |
 |---|---|---|---|---|
 | goodsList | 8 | No |  |  |
+| selectedAdManagedType | 1 | No |  |  |
 
 ## Response Parameters
 
@@ -59,6 +60,7 @@ curl -X POST \
   "sign" : "test",
   "data_type" : "test",
   "goodsList" : [ 1, 1 ],
+  "selectedAdManagedType" : 1,
   "type" : "test",
   "version" : "test",
   "timestamp" : "test"

@@ -393,6 +393,7 @@ curl -X POST \
   "goodsOriginInfo" : {
     "agreeDefaultOriginRegion" : true,
     "originRegion1" : "test",
+    "manufacturingLocations" : [ "test", "test" ],
     "proofImageUrls" : [ "test", "test" ],
     "labelManufacturerProofImageUrls" : [ "test", "test" ],
     "originRegion2" : "test"
@@ -471,6 +472,9 @@ curl -X POST \
       } ],
       "skuId" : 1,
       "outSkuSn" : "test"
+    } ],
+    "warnings" : [ {
+      "message" : "test"
     } ]
   },
   "errorCode" : 1,

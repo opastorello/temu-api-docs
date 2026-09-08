@@ -531,6 +531,7 @@ curl -X POST \
   "goodsOriginInfo" : {
     "agreeDefaultOriginRegion" : true,
     "originRegion1" : "test",
+    "manufacturingLocations" : [ "test", "test" ],
     "proofImageUrls" : [ "test", "test" ],
     "labelManufacturerProofImageUrls" : [ "test", "test" ],
     "originRegion2" : "test"

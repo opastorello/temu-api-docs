@@ -28,6 +28,7 @@ Advertisement log query
 | goodsId | 2 | No |  |  |
 | startTime | 2 | No |  |  |
 | endTime | 2 | No |  |  |
+| selectedAdManagedType | 1 | No |  |  |
 
 ## Response Parameters
 
@@ -62,6 +63,7 @@ curl -X POST \
   "sign" : "test",
   "data_type" : "test",
   "startTime" : 1,
+  "selectedAdManagedType" : 1,
   "endTime" : 1,
   "type" : "test",
   "version" : "test",

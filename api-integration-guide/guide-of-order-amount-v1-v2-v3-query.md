@@ -50,23 +50,7 @@ The final payable amount is subject to the actual settlement shown in the order 
 
 **Corresponding API Calculation:**
 
-Copy
-
-Switch color
-
-estimatedSettlementTotal
-
-= basePriceDiscountedTotal
-
-+ shippingTotalTaxExcl
-
-+ productTax
-
-+ shippingTax
-
-+ taxTemuDiscount
-
-- estimatedDeduction
+estimatedSettlementTotal = basePriceDiscountedTotal + shippingTotalTaxExcl + productTax + shippingTax + taxTemuDiscount - estimatedDeduction
 
 ## 
 
@@ -88,21 +72,7 @@ The total amount = Retail price after discount * Quantity + Shipping total + Tax
 
 **Corresponding API Calculation:**
 
-Copy
-
-Switch color
-
-totalPaid
-
-= retailPriceCustomerTotalTaxExcl
-
-+ shippingCustomerTotalTaxExcl
-
-+ productTaxCustomerTotal
-
-+ shippingTaxCustomerTotal
-
-- productRefundsTotal
+totalPaid = retailPriceCustomerTotalTaxExcl + shippingCustomerTotalTaxExcl + productTaxCustomerTotal + shippingTaxCustomerTotal - productRefundsTotal
 
 # 
 

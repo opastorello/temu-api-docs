@@ -30,6 +30,7 @@ query recommended category by product name
 | imageUrl | 4 | No |  |  |
 | expandCatType | 1 | No |  |  |
 | expandCatName | 4 | No |  |  |
+| assignedPrimaryCatId | 2 | No |  |  |
 
 ## Response Parameters
 
@@ -47,15 +48,16 @@ curl -X POST \
 'https://openapi-b-global.temu.com/openapi/router' \
  -H 'content-type: application/json' \
  -d '{
-  "access_token" : "test",
   "expandCatName" : "test",
-  "app_key" : "test",
-  "imageUrl" : "test",
   "sign" : "test",
-  "data_type" : "test",
   "description" : "test",
   "type" : "test",
   "version" : "test",
+  "access_token" : "test",
+  "app_key" : "test",
+  "imageUrl" : "test",
+  "data_type" : "test",
+  "assignedPrimaryCatId" : 1,
   "goodsName" : "test",
   "expandCatType" : 1,
   "timestamp" : "test"

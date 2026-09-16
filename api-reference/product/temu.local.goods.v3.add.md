@@ -132,6 +132,7 @@ curl -X POST \
     "externalGoodsId" : "test",
     "bulletPoints" : [ "test", "test" ],
     "goodsCarouselImage" : [ "test", "test" ],
+    "assignedPrimaryCatId" : 1,
     "goodsName" : "test",
     "productType" : 1,
     "goodsDesc" : "test",

@@ -40,6 +40,7 @@ The bg.logistics.shipment.shippingtype.update interface is used by sellers to up
 
 | Error Code | Message |
 |---|---|
+| 120011036 | Orders with the 'platform_covered_shipping' orderLabel does not support self-delivery. |
 | 120011123 | Your store has been restricted from confirming shipment by {*} tracking number. Please use the online buy shipping function to buy shipping label instead. |
 | 120011119 | Your store has been restricted from confirming shipment by intelcom tracking number. Please use the online buy shipping function to buy intelcom shipping label instead. |
 | 120015577 | Orders cannot be consolidated for shipment. |

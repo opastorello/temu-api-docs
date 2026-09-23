@@ -293,6 +293,7 @@ Edit all properties (e.g. description, brand, images, attributes) of a product.
 | 150010212 | The relation id is wrong |
 | 150010213 | The goods property relation not exist |
 | 150011000 | Attribute or Specification Error: {*} |
+| 150011100 | The number of products that can be listed each day is limited to {*}. Reason: {*} |
 
 ## Request Example
 

@@ -74,10 +74,25 @@ curl -X POST \
 ```json
 {
   "result" : {
+    "secondHand" : [ {
+      "businessScope" : 1,
+      "condition" : [ {
+        "type" : 1,
+        "agency" : [ {
+          "insName" : "test",
+          "grade" : [ "test", "test" ]
+        } ],
+        "level" : [ {
+          "name" : "test",
+          "number" : 1
+        } ]
+      } ]
+    } ],
     "fieldRules" : [ {
       "requirementType" : 1,
       "filedName" : "test"
     } ],
+    "expandCatType" : 1,
     "warnings" : [ {
       "message" : "test"
     } ]

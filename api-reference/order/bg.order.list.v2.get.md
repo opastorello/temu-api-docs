@@ -149,6 +149,7 @@ curl -X POST \
         "canceledQuantityBeforeShipment" : 1,
         "quantity" : 1,
         "earliestTimeGetShippingDocument" : 1,
+        "scheduledDeliveryTime" : 1,
         "orderCreateTime" : 1,
         "inventoryDeductionWarehouseId" : "test",
         "originalGoodsName" : "test",

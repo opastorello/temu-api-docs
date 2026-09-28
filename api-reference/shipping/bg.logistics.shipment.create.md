@@ -43,7 +43,7 @@ The bg.logistics.shipment.create interface is for sellers to place online logist
 
 | Error Code | Message |
 |---|---|
-| 120011035 | The order with "platform_covered_shipping" orderLabel and the order without "platform_covered_shipping" orderLabel can't be fulfilled simultaneously. |
+| 120011035 | Orders with and without the 'smart_shipping_order' orderLabel cannot be fulfilled simultaneously. |
 | 120011089 | Buy shipping from this warehouse is not supported. Please use another warehouse. |
 | 120015577 | Orders cannot be consolidated for shipment. |
 | 120015051 | Buy shipping is not supported. Please use confirming shipment for this order instead. |

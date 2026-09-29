@@ -55,6 +55,7 @@ Edit all properties (e.g. description, brand, images, attributes) of a product.
 
 | Error Code | Message |
 |---|---|
+| 150010263 | The product type is not supported. |
 | 150010259 | The k-Type is wrong. |
 | 150010258 | "K-type" field exceed max count. |
 | 150010216 | The property value repeated. |
@@ -294,6 +295,7 @@ Edit all properties (e.g. description, brand, images, attributes) of a product.
 | 150010213 | The goods property relation not exist |
 | 150011000 | Attribute or Specification Error: {*} |
 | 150011100 | The number of products that can be listed each day is limited to {*}. Reason: {*} |
+| 150011043 | {*}  is required. |
 
 ## Request Example
 
@@ -414,7 +416,8 @@ curl -X POST \
         "videoUrl" : "test"
       },
       "detailImage" : [ "test", "test" ]
-    }
+    },
+    "productType" : 1
   },
   "access_token" : "test",
   "app_key" : "test",

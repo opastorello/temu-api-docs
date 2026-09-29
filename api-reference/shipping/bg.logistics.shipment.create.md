@@ -43,6 +43,7 @@ The bg.logistics.shipment.create interface is for sellers to place online logist
 
 | Error Code | Message |
 |---|---|
+| 120015583 | The discrepancy between the parcel weight and the total weight of the contained SKUs exceeds the allowable tolerance. Please verify and correct. |
 | 120011035 | Orders with and without the 'smart_shipping_order' orderLabel cannot be fulfilled simultaneously. |
 | 120011089 | Buy shipping from this warehouse is not supported. Please use another warehouse. |
 | 120015577 | Orders cannot be consolidated for shipment. |

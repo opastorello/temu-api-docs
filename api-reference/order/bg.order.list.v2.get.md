@@ -113,6 +113,10 @@ curl -X POST \
           "name" : "test",
           "value" : 1
         } ],
+        "buyerPaidShippingAmount" : {
+          "currency" : "test",
+          "amount" : 1
+        },
         "shippingMethod" : 1,
         "parentShippingTime" : 1,
         "updateTime" : 1,

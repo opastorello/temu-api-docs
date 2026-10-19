@@ -78,6 +78,10 @@ curl -X POST \
       } ],
       "regionName1" : "test",
       "regionName2" : "test",
+      "buyerPaidShippingAmount" : {
+        "currency" : "test",
+        "amount" : 1
+      },
       "shippingMethod" : 1,
       "parentShippingTime" : 1,
       "latestDeliveryTime" : 1,

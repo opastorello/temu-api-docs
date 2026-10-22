@@ -40,6 +40,7 @@ The bg.logistics.shipment.result.get interface is for sellers to query the resul
 
 | Error Code | Message |
 |---|---|
+| 120018096 | This order is being re-called. Please try again later for the latest shipping label. |
 | 120018027 | The packageSn is invalid. Please check the request area or if the packageSn is nonexistent etc. |
 
 ## Request Example

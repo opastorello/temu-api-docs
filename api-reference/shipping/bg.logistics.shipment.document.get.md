@@ -41,6 +41,7 @@ The bg.logistics.shipment.document.get interface is for sellers to obtain the ex
 
 | Error Code | Message |
 |---|---|
+| 120018096 | This order is being re-called. Please try again later for the latest shipping label. |
 | 120012038 | Order can only get shipping document after the "earliestTimeGetShippingDocument". |
 | 120018010 | The packages {*} have been canceled. Please fulfill again by Temu non-integrated logistics or Temu integrated logistics. |
 | 120011030 | Cooperative warehouse order fulfillment restricted. |

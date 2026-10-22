@@ -41,6 +41,7 @@ The bg.logistics.shipment.v2.get interface is for sellers to verify shipped info
 
 | Error Code | Message |
 |---|---|
+| 120018096 | This order is being re-called. Please try again later for the latest shipping label. |
 | 120011072 | The request area is incorrect. Please check the request area and replace it with the correct request area. The request area for the United States is US, and the request area for other non-European countries is global. |
 | 120012007 | The parentOrder or Order is invalid. Please check if the parentOrder matches the Order, the parentOrder or Order is nonexistent etc. |
 | 120012016 | The parentOrder or Order is invalid. Please check if the parentOrder matches the Order, the parentOrder or Order is nonexistent etc. |

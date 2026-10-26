@@ -38,6 +38,7 @@ The bg.logistics.shippingservices.get interface is for sellers to retrieve suppo
 | dimensionUnit | 4 | No |  |  |
 | signatureOnDelivery | 5 | No |  |  |
 | invoiceAccessKey | 4 | No |  |  |
+| invoiceFileContent | 4 | No |  |  |
 
 ## Response Parameters
 
@@ -52,6 +53,11 @@ The bg.logistics.shippingservices.get interface is for sellers to retrieve suppo
 
 | Error Code | Message |
 |---|---|
+| 120011131 | Neither an invoice access key nor an invoice XML file was provided for a Brazilian order. Exactly one of them is required. |
+| 120011127 | The issuing state of this invoice does not currently support verification via XML file. Please provide an access key and retry. |
+| 120011126 | The provided invoice failed validation. Please check it and re-submit. |
+| 120011130 | The provided invoice XML file exceeds the size limit of {*}. Please check the content size and re-upload. |
+| 120011128 | Both an invoice access key and an invoice XML file were provided. Only one of them is allowed. |
 | 120015051 | Buy shipping is not supported. Please use confirming shipment for this order instead. |
 | 120015507 | Wrong package {*} information. Try again. |
 | 120011101 | The invoice has expired. |
@@ -103,6 +109,7 @@ curl -X POST \
   "length" : "test",
   "dimensionUnit" : "test",
   "weight" : "test",
+  "invoiceFileContent" : "test",
   "signatureOnDelivery" : true,
   "type" : "test",
   "version" : "test",

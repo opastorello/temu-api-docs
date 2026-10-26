@@ -41,6 +41,11 @@ The bg.logistics.shipment.update interface is for sellers to create shipment log
 
 | Error Code | Message |
 |---|---|
+| 120011131 | Neither an invoice access key nor an invoice XML file was provided for a Brazilian order. Exactly one of them is required. |
+| 120011127 | The issuing state of this invoice does not currently support verification via XML file. Please provide an access key and retry. |
+| 120011126 | The provided invoice failed validation. Please check it and re-submit. |
+| 120011130 | The provided invoice XML file exceeds the size limit of {*}. Please check the content size and re-upload. |
+| 120011128 | Both an invoice access key and an invoice XML file were provided. Only one of them is allowed. |
 | 120015583 | The discrepancy between the parcel weight and the total weight of the contained SKUs exceeds the allowable tolerance. Please verify and correct. |
 | 120015577 | Orders cannot be consolidated for shipment. |
 | 120015051 | Buy shipping is not supported. Please use confirming shipment for this order instead. |
@@ -130,6 +135,7 @@ curl -X POST \
     "length" : "test",
     "dimensionUnit" : "test",
     "weight" : "test",
+    "invoiceFileContent" : "test",
     "retrySendSubRequestList" : [ {
       "invoiceAccessKey" : "test",
       "extendWeightUnit" : "test",
@@ -140,6 +146,7 @@ curl -X POST \
       "length" : "test",
       "dimensionUnit" : "test",
       "weight" : "test",
+      "invoiceFileContent" : "test",
       "interlineShipCompanyList" : [ {
         "shipLogisticsType" : "test",
         "shipStageType" : "test",

@@ -1,32 +1,34 @@
 # Temu Partner Platform Privacy Policy
 
+# 
+
 **Temu | Partner Platform Privacy Policy**
 
-**Last updated:** September 29, 2026
+## 
 
 **Index**
 
-• **What Information We Collect**
+• [**What Information We Collect**](#what_information_we_collect)
 
-• **How and Why We Use Your Information**
+• [**How and Why We Use Your Information**](#how_and_why_we_use_your_information)
 
-• **How and Why We Share Your Information**
+• [**How and Why We Share Your Information**](#how_and_why_we_share_your_information)
 
-• **Your Controls/Rights and Choices**
+• [**Your Controls/Rights and Choices**](#your_controls/rights_and_choices)
 
-• **Children**
+• [**Children**](#children)
 
-• **Data Security and Retention**
+• [**Data Security and Retention**](#data_security_and_retention)
 
-• **Our Global Operations and Data Transfers**
+• [**Our Global Operations and Data Transfers**](#our_global_operations_and_data_transfers)
 
-• **Additional Terms for Certain Jurisdictions**
+• [**Additional Terms for Certain Jurisdictions**](#additional_terms_for_certain_jurisdictions)
 
-• **Changes to the Privacy Policy**
+• [**Changes to the Privacy Policy**](#changes_to_the_privacy_policy)
 
-• **Contact Us**
+• [**Contact Us**](#contact_us)
 
-This Temu Partner Platform Privacy Policy (the “Privacy Policy”) describes how Temu (“we”, “us” or “our”) handles personal information that we collect from current and prospective Partners (i) who are using the Temu Partner Platform as an individual, or (ii) where a Partner is a company or similar entity, and the Temu Partner Platform is used by its employees, representatives, or other individuals authorized by that Partner (“you”) through our digital properties that link to this Privacy Policy, including but not limited to our website ([https://partner.temu.com](https://partner.temu.com/), [https://partner-eu.temu.com](https://partner-eu.temu.com/)), related services (collectively, the “Service”), and other activities as described in this Privacy Policy. At Temu, we care deeply about privacy. We strive to be transparent about our privacy practices, including how we treat your personal information. This Privacy Policy explains how we collect, use, share, and otherwise process your personal information in connection with our Service. If you are governed by certain specific jurisdictions, please see the “**Additional Terms for Certain Jurisdictions**” section for additional information. If you are a California resident, please see the “**Additional Terms for Certain Jurisdictions - California**” section for additional information.
+This Temu Partner Platform Privacy Policy (the “Privacy Policy”) describes how Temu (“we”, “us” or “our”) handles personal information that we collect from current and prospective Partners (i) who are using the Temu Partner Platform as an individual, or (ii) where a Partner is a company or similar entity, and the Temu Partner Platform is used by its employees, representatives, or other individuals authorized by that Partner (“you”) through our digital properties that link to this Privacy Policy, including but not limited to our website ([https://partner.temu.com](https://partner.temu.com/), [https://partner-eu.temu.com](https://partner-eu.temu.com/)), related services (collectively, the “Service”), and other activities as described in this Privacy Policy. At Temu, we care deeply about privacy. We strive to be transparent about our privacy practices, including how we treat your personal information. This Privacy Policy explains how we collect, use, share, and otherwise process your personal information in connection with our Service. If you are governed by certain specific jurisdictions, please see the “[**Additional Terms for Certain Jurisdictions**](#additional_terms_for_certain_jurisdictions)” section for additional information. If you are a California resident, please see the “[**Additional Terms for Certain Jurisdictions - California**](#california)” section for additional information.
 
 Different Temu entities handle your personal information based on your location as follows:
 
@@ -45,6 +47,8 @@ If you are located in Canada, Whaleco Canada Inc. is responsible for the process
 - 
 
 If you are not located in the EEA, UK, Switzerland, United States, or Canada, Elementary Innovation Pte. Ltd., a Singapore company is responsible for the processing of your personal information.
+
+## 
 
 **What Information We Collect**
 
@@ -124,6 +128,8 @@ We use cookies and similar technologies to operate and provide the Service, incl
 
 **Block cookies and similar technologies.** Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, the Service may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit [www.allaboutcookies.org/](https://www.allaboutcookies.org/).
 
+## 
+
 **How and Why We Use Your Information**
 
 We use your personal information that we collect for various purposes, including to verify your identity, to develop, improve, support, and provide the Service, allowing you to use its features while enforcing our [**Temu Partner Platform Terms**](https://partner.temu.com/documentation?menu_code=d8425dcd25b04658843e622e178a3b42). We may use your personal information for the following purposes:
@@ -148,6 +154,8 @@ We use your personal information that we collect for various purposes, including
 
 **Cookies and similar technologies for technical operations, performance enhancement, etc.** We use cookies and similar technologies to operate and provide the Service, including to enable your login to your Temu account, to display the page you view, to measure and analyze how you use the Service, and to detect fraud and mitigate risks.
 
+## 
+
 **How and Why We Share Your Information**
 
 At Temu, we care deeply about privacy. We may share your personal information with the following parties for the purpose of verifying your identity, providing you with better services, communicating with you, protecting your rights, protecting our rights, protecting the rights of Temu sellers, and/or complying with applicable legal requirements:
@@ -170,13 +178,15 @@ At Temu, we care deeply about privacy. We may share your personal information wi
 
 **Other users/sellers. **Your partner application details and service information may be made available to other users and the public.
 
+## 
+
 **Your Controls/Rights and Choices**
 
 We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with applicable law, your controls/rights and choices may include:
 
 **Rights to access, delete, and correct your personal information.** You may have the right to access, delete, or correct your personal information in addition to other rights under applicable laws. Please see the Additional Terms for Certain Jurisdictions for more information.
 
-**Withdrawal of consent. **Where we process your personal information based on consent, you may withdraw your consent at any time by contacting us using the details set out in the “**Contact Us**” section in this Privacy Policy.
+**Withdrawal of consent. **Where we process your personal information based on consent, you may withdraw your consent at any time by contacting us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
 
 **Links to third-party platforms.** The Service may contain links to websites, mobile applications, and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. However, please note that these links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. Moreover, we do not control websites, mobile applications or online services operated by third parties, and we are not responsible for their actions. Therefore, we encourage you to read the privacy policies of the other websites, mobile applications and online services you use. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.
 
@@ -184,11 +194,15 @@ We provide you the ability to exercise certain controls and choices regarding ou
 
 **Declining to provide information.** We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
 
-**Other choices.** Please see the** Additional Terms for Certain Jurisdictions** for additional choices and rights you may have and how to exercise such choices and rights.
+**Other choices.** Please see the** **[**Additional Terms for Certain Jurisdictions**](#additional_terms_for_certain_jurisdictions) for additional choices and rights you may have and how to exercise such choices and rights.
+
+## 
 
 **Children**
 
 To use our Services, you should be at least 18 years old. Our Services are not intended for individuals under the age of 18.
+
+## 
 
 **Data Security and Retention**
 
@@ -197,6 +211,8 @@ The security of your personal information is important to us. We use technical a
 We generally retain personal information to fulfill the purposes for which we collected it or as disclosed to you at the point of collection, as well as for the purposes of satisfying any applicable legal, accounting, or reporting requirements, to establish or defend legal claims, or for fraud prevention purposes. To determine the appropriate retention period for personal information, we may consider factors such as the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements. When we no longer require the personal information we have collected about you, we may either delete it, anonymize it, or isolate it from further processing.
 
 Data of Temu users will be stored in the infrastructure of cloud service providers in the EEA and the United States. As a global one-stop shopping destination, Temu may need to engage service providers in other countries and share your personal information with them for purposes such as providing the Services. At the same time, in all cases, we will ensure that all transfers of personal information comply with applicable legal requirements.
+
+## 
 
 **Our Global Operations and Data Transfers**
 
@@ -208,7 +224,7 @@ We may disclose your personal information to subsidiaries, affiliates, service p
 
 - 
 
-See the “**How and Why we Share Your Information**” section above for more information about the reasons for our disclosures, which include supporting our operations, complying with applicable laws and legal process, and providing you with services.
+See the “[**How and Why we Share Your Information**](#how_and_why_we_share_your_information)” section above for more information about the reasons for our disclosures, which include supporting our operations, complying with applicable laws and legal process, and providing you with services.
 
 The recipients of personal information may be located in jurisdictions that do not afford the same protections as those afforded in your jurisdiction. We require recipients of personal information to commit to processing information in compliance with applicable privacy laws and to implementing appropriate security measures to protect your information (such as by entering into contractual arrangements).
 
@@ -216,15 +232,17 @@ For example, when we transfer information outside of the EU, EEA, UK and Switzer
 
 - 
 
-Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) which recognize that a country offers an adequate level of data protection. We transfer your personal information as described in “**What Information We Collect**” to some countries with adequacy decisions, such as the countries listed [**here**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en); or
+Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) which recognize that a country offers an adequate level of data protection. We transfer your personal information as described in “[**What Information We Collect**](#what_information_we_collect)” to some countries with adequacy decisions, such as the countries listed [**here**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en); or
 
 - 
 
-Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 of the GDPR that allow companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer personal information as described in “**What Information We Collect**” to certain affiliates and third parties in countries without an adequacy decision.
+Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 of the GDPR that allow companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer personal information as described in “[**What Information We Collect**](#what_information_we_collect)” to certain affiliates and third parties in countries without an adequacy decision.
 
 In certain situations, we rely on derogations provided for under the applicable law to transfer information to a third country.
 
 Click the link to learn more about [**Adequacy decisions**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) (or equivalent links under applicable laws) or [**Standard contractual clauses**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (or equivalent links under applicable laws).
+
+## 
 
 **Additional Terms for Certain Jurisdictions**
 
@@ -232,75 +250,77 @@ Certain jurisdictions have additional terms described below under applicable law
 
 - 
 
-**Australia**
+[**Australia**](#australia)
 
 - 
 
-**Brazil**
+[**Brazil**](#brazil)
 
 - 
 
-**California**
+[**California**](#california)
 
 - 
 
-**Canada**
+[**Canada**](#canada)
 
 - 
 
-**European Economic Area, UK, Switzerland**
+[**European Economic Area, UK, Switzerland**](#european_economic_area,_uk,_switzerland)
 
 - 
 
-**India**
+[**India**](#india)
 
 - 
 
-**Israel**
+[**Israel**](#israel)
 
 - 
 
-**Kazakhstan**
+[**Kazakhstan**](#kazakhstan)
 
 - 
 
-**Mexico**
+[**Mexico**](#mexico)
 
 - 
 
-**New Zealand**
+[**New Zealand**](#new_zealand)
 
 - 
 
-**Philippines**
+[**Philippines**](#philippines)
 
 - 
 
-**San Marino**
+[**San Marino**](#san_marino)
 
 - 
 
-**Saudi Arabia**
+[**Saudi Arabia**](#saudi_arabia)
 
 - 
 
-**South Korea**
+[**South Korea**](#south_korea)
 
 - 
 
-**Turkey**
+[**Turkey**](#turkey)
 
 - 
 
-**Ukraine**
+[**Ukraine**](#ukraine)
 
 - 
 
-**United Arab Emirates**
+[**United Arab Emirates**](#united_arab_emirates)
 
 - 
 
-**Vietnam**
+[**Vietnam**](#vietnam)
+
+### 
 
 **Australia**
 
@@ -316,15 +336,17 @@ If you are located in Australia, you have the following rights in respect of you
 
 **The Right to Correct Information.** You may request the correction of your personal information if it is inaccurate, out-of-date, incomplete, irrelevant or misleading.
 
-You can ask for access or correction of your personal information by contacting us using the details set out in the “**Contact Us**” section in this Privacy Policy.
+You can ask for access or correction of your personal information by contacting us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
 
 If you have any queries or complaints about this Privacy Policy or our processing of personal information, please contact us in writing. If you are dissatisfied with the outcome of the complaint or the way in which the complaint was handled, then you may contact the Office of the Australian Information Commissioner.
+
+### 
 
 **Brazil**
 
 **Your Rights as a Data Subject**
 
-In addition to the rights provided in section “**Your Controls/Rights and Choices**”, you have the following rights which can be exercised in accordance with applicable law: right to confirm the existence of the processing, right to anonymization, blocking or erasure of unnecessary or excessive data or data processed in noncompliance with the provisions of the applicable law, right to data portability, information about public and private entities with which Temu shared data, information on the possibility of not giving consent and the consequences of such refusal, right to object to unlawful processing based on legal grounds other than consent, right to Petition the National Data Protection Authority (ANPD).
+In addition to the rights provided in section “[**Your Controls/Rights and Choices**](#your_controls/rights_and_choices)”, you have the following rights which can be exercised in accordance with applicable law: right to confirm the existence of the processing, right to anonymization, blocking or erasure of unnecessary or excessive data or data processed in noncompliance with the provisions of the applicable law, right to data portability, information about public and private entities with which Temu shared data, information on the possibility of not giving consent and the consequences of such refusal, right to object to unlawful processing based on legal grounds other than consent, right to Petition the National Data Protection Authority (ANPD).
 
 **Legal Basis**
 
@@ -348,9 +370,11 @@ Applicable data protection laws require a legal basis for our use of personal in
 
 - 
 
-**These and other legal bases: **depending on the purpose we described in the “**How and Why We Use Your Information**”.
+**These and other legal bases: **depending on the purpose we described in the “[**How and Why We Use Your Information**](#how_and_why_we_use_your_information)”.
 
-If you have any questions or comments about this Privacy Policy, your personal information, or to exercise one of your legal rights in relation to that personal information, please contact us using the details set out in the “**Contact Us**” section in this Privacy Policy.
+If you have any questions or comments about this Privacy Policy, your personal information, or to exercise one of your legal rights in relation to that personal information, please contact us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
+
+### 
 
 **California**
 
@@ -444,7 +468,9 @@ As a California resident, you may have the rights listed below in relation to Pe
 
 **Right to correct.** The right to request that we correct inaccurate Personal Information we maintain about you.
 
-You may exercise any of these rights by submitting a request using the details set out in the “**Contact Us**” section in this Privacy Policy. We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, before providing a substantive response to the request. You may also designate an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof showing that you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
+You may exercise any of these rights by submitting a request using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy. We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, before providing a substantive response to the request. You may also designate an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof showing that you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
+
+### 
 
 **Canada**
 
@@ -452,7 +478,9 @@ We will collect, use and disclose your personal information subject to your cons
 
 **Children.** We do not knowingly collect personal information from anyone under the age of 14 (“child” or “children”). If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from children without verification of parental consent, we will take steps to delete that information as required by applicable law.
 
-**Comments and Questions.** If you have any questions or comments about this Privacy Policy, your personal information, or to exercise one of your legal rights in relation to that personal information, please communicate with our Data Protection Officer using the details set out in the “**Contact Us**” section in this Privacy Policy.
+**Comments and Questions.** If you have any questions or comments about this Privacy Policy, your personal information, or to exercise one of your legal rights in relation to that personal information, please communicate with our Data Protection Officer using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
+
+### 
 
 **European Economic Area, UK, Switzerland**
 
@@ -508,11 +536,13 @@ Applicable data protection laws require a legal basis for our use of personal in
 
 - 
 
-**These and other legal bases:** depending on the purpose we described in the “**How and Why We Use Your Information**”.
+**These and other legal bases:** depending on the purpose we described in the “[**How and Why We Use Your Information**](#how_and_why_we_use_your_information)”.
 
 If you have any questions or comments about our Privacy Policy or the terms mentioned, or if you wish to contact our Data Protection Officer by email, please send an email to partner@eur.temu.com.
 
 If you wish to contact our Data Protection Officer by post, please send mail to the following address of Temu's Data Protection Officer - Whaleco Technology Limited., First Floor, 25 St. Stephens Green, Dublin 2, Ireland
+
+### 
 
 **India**
 
@@ -520,15 +550,19 @@ If you are a resident of India:
 
 **Grievance Redressal**
 
-If you have any concerns or questions in relation to the processing of your personal information under this Privacy Policy you have the right to contact the Grievance Officer using the details set out in the “**Contact Us**” section in this Privacy Policy.
+If you have any concerns or questions in relation to the processing of your personal information under this Privacy Policy you have the right to contact the Grievance Officer using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
+
+### 
 
 **Israel**
 
 You are not legally required to provide us with any of your personal information. However, if you choose not to do so, we may be unable to provide you with certain services. You acknowledge and agree that, by using our Service, you are providing your personal information to us at your own free will, and we will process your personal information in accordance with this Privacy Policy and applicable laws.
 
+### 
+
 **Kazakhstan**
 
-By using our Service, you are consenting to the practices described in this [Privacy Policy](https://seller.temu.com/policy-page.html?type=5). If you do not agree with this [Privacy Policy](https://seller.temu.com/policy-page.html?type=5), please do not use or access our Service.
+By using our Service, you are consenting to the practices described in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use or access our Service.
 
 **Your Privacy Rights**
 
@@ -536,11 +570,11 @@ By using our Service, you are consenting to the practices described in this [Pri
 
 You have the right to withdraw your consent to the processing of your personal information at any time, where processing is based on your consent. The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal. However, such withdrawal may be restricted if it contradicts applicable legal requirements and/or if there are any outstanding obligations between you and Temu. In such cases where consent is withdrawn, Temu may not be able to provide certain services to you that rely on your consent.
 
-If you have any questions or comments about our [Privacy Policy](https://seller.temu.com/policy-page.html?type=5) or the terms mentioned, you may contact us at any time:
+If you have any questions or comments about our Privacy Policy or the terms mentioned, you may contact us at any time:
 
 - 
 
-send an email to Temu's Data Protection Officer using the details set out in the “**Contact Us**” section in the [Privacy Policy](https://seller.temu.com/policy-page.html?type=5); or
+send an email to Temu's Data Protection Officer using the details set out in the “[**Contact Us**](#contact_us)” section in the Privacy Policy; or
 
 - 
 
@@ -551,6 +585,8 @@ send post mail to the following address - Elementary Innovation Pte. Ltd.
 #14-06
 
 Singapore (Postal 048580) (Company Registration Number: 201900304D).
+
+### 
 
 **Mexico**
 
@@ -572,7 +608,7 @@ If you are a Mexican resident, you have the following rights:
 
 **Limit the use and disclosure of your personal information. **You have the right to limit the use and disclosure of your personal information.
 
-To exercise these rights, you or your legal representative must send a written request addressed to the privacy department using the details set out in the “**Contact Us**” section in this Privacy Policy, clearly indicating the right being exercised as well as the following information:
+To exercise these rights, you or your legal representative must send a written request addressed to the privacy department using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy, clearly indicating the right being exercised as well as the following information:
 
 • Your full name;
 
@@ -592,7 +628,9 @@ We do not need your consent for sharing your information with affiliates, servic
 
 We need your consent for sharing your information with business and marketing partners, business transferees and with other users or sellers. By accepting this privacy notice we will understand that you have given us consent for these transfers except if you opt out by contacting us as below.
 
-Contact us using the details set out in the “**Contact Us**” section in this Privacy Policy if you do not wish your information to be shared with business and marketing partners, business transferees, or with other users or sellers.
+Contact us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy if you do not wish your information to be shared with business and marketing partners, business transferees, or with other users or sellers.
+
+### 
 
 **New Zealand**
 
@@ -602,11 +640,15 @@ If you are a New Zealand resident:
 
 **Correction Statement: **when requesting correction of your personal information, you have the right, to provide to us a statement of the correction sought (the “Correction Statement”) and request that, if we do not make the correction you have sought, the Correction Statement is attached to the relevant personal information.
 
+### 
+
 **Philippines**
 
 **Your Statutory Rights**
 
 Subject to any statutory limitations, you have the right to be informed, to object to data processing, to access, rectify, erase or block your personal data, to lodge complaints before the Philippines National Privacy Commission, to data portability, and to be indemnified for damages.
+
+### 
 
 **San Marino**
 
@@ -652,7 +694,7 @@ You have the following rights which can be exercised in accordance with applicab
 
 These rights may be limited, for example if fulfilling your request would reveal personal data about another person, if the exercise of these rights would infringe the rights of a third party (including our rights), or if your request relates to information which we are required by law or for certain reasons of public interest to keep.
 
-You can exercise any of these rights by submitting a request via email, using the details set out in the “**Contact Us**” section in this Privacy Policy.
+You can exercise any of these rights by submitting a request via email, using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
 
 **Legal Basis**
 
@@ -676,9 +718,11 @@ Applicable data protection laws require a legal basis for our use of personal in
 
 - 
 
-**These and other legal bases:** depending on the purpose we described in the “**How and Why We Use Your Information**”.
+**These and other legal bases:** depending on the purpose we described in the “[**How and Why We Use Your Information**](#how_and_why_we_use_your_information)”.
 
 If you have any questions or comments about our Privacy Policy or the terms mentioned, or if you wish to contact our Data Protection Officer, please send an email to partner@temu.com.
+
+### 
 
 **Saudi Arabia**
 
@@ -708,7 +752,7 @@ Our legal basis for processing personal information depends on the specific purp
 
 - 
 
-**These and other legal bases: **depending on the purpose we described in the “**How and Why We Use Your Information**”.
+**These and other legal bases: **depending on the purpose we described in the “[**How and Why We Use Your Information**](#how_and_why_we_use_your_information)”.
 
 **Your Statutory Rights**
 
@@ -728,11 +772,13 @@ Subject to any statutory limitations, you have rights in relation to the persona
 
 **Right to lodge a complaint. **You have the right to lodge a complaint with your data protection authority or with us in writing if you think that we have breached any of our obligations or infringed your rights under applicable privacy law.
 
-You can exercise your rights by contacting us using the details set out in the “**Contact Us**” section in this Privacy Policy. We will respond to complaints in writing within a reasonable time. We will provide details regarding your applicable data protection authority upon request. We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information.
+You can exercise your rights by contacting us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy. We will respond to complaints in writing within a reasonable time. We will provide details regarding your applicable data protection authority upon request. We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information.
 
 **Data Retention**
 
 We will keep your personal data for as long as it is necessary for the purpose for which they were collected. Thereafter, pursuant to applicable laws, we will delete your data in line with our general erasure procedures unless: (i) we retain your personal data after anonymization thereof in accordance with local law requirements; (ii) we are otherwise required to retain your personal data to comply with applicable law; (iii) there are outstanding claims or complaints that will reasonably require your personal data to be retained.
+
+### 
 
 **South Korea**
 
@@ -804,7 +850,7 @@ Methods of Destruction: Personal information in electronic form is destroyed thr
 
 **Your Rights**
 
-You may exercise your rights related to your personal information, such as requesting access, modification or deletion, suspension of processing, or objecting to or requesting an explanation on an automated decision concerning your personal information pursuant to applicable law. You may also exercise your right of withdrawal of consent to the collection/use/provision of your personal information. To exercise your rights, you may contact us using the details set out in the “**Contact Us**” section in this Privacy Policy.
+You may exercise your rights related to your personal information, such as requesting access, modification or deletion, suspension of processing, or objecting to or requesting an explanation on an automated decision concerning your personal information pursuant to applicable law. You may also exercise your right of withdrawal of consent to the collection/use/provision of your personal information. To exercise your rights, you may contact us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
 
 **Children**
 
@@ -829,6 +875,8 @@ Address: 1216 Platinum Building, 28, Saemunan-ro 5ga-gil, Jongno-gu, Seoul, Repu
 Phone number: (02) 736-8110
 
 Email: temu@generalagent.co.kr
+
+### 
 
 **Turkey**
 
@@ -856,7 +904,7 @@ The legal basis for the processing and transfer of your personal data (including
 
 **Cookies and Similar Technologies**
 
-Please see [**Partner Platform Cookie Policy**](https://partner-eu.temu.com/protocol/temu_partner_platform_cookie_policy_20240731.pdf) for further details on cookies and similar technologies.
+Please see [**Partner Platform Cookie Policy**](https://partner.temu.com/protocol/temu_partner_platform_cookie_policy_20240731.pdf) for further details on cookies and similar technologies.
 
 **Your Rights**
 
@@ -898,7 +946,9 @@ to object to negative consequences which arise as a result of the analysis of yo
 
 to request indemnification if you suffer damage as a result of illegal processing of your personal data.
 
-To exercise your rights, you may contact us using the details set out in the “**Contact Us**” section in this Privacy Policy. We endeavor to resolve your requests as soon as possible according to the nature of your request and in any case, within thirty days - as required by Turkish Data Protection Law No. 6698.
+To exercise your rights, you may contact us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy. We endeavor to resolve your requests as soon as possible according to the nature of your request and in any case, within thirty days - as required by Turkish Data Protection Law No. 6698.
+
+### 
 
 **Ukraine**
 
@@ -960,21 +1010,29 @@ to know the mechanism of automated processing of personal data; and
 
 to be protected against automated decision-making that produces legal consequences for you.
 
+### 
+
 **United Arab Emirates**
 
 By using our Service, you are consenting to the practices described in this Privacy Policy.
 
 Subject to any statutory limitations, you are granted the following rights established under the United Arab Emirates (“UAE”) data protection law in relation to the personal data we hold about you: right to access, right to request correction, right to request erasure, right to withdraw consent, right to data portability, right to object to, and the right to request that we restrict, our processing of your personal data, right to object to certain automated processing, and right to lodge a complaint with your data protection authority.
 
-You can exercise your rights by contacting us using the details set out in the “**Contact Us**” section below. We will respond to complaints in writing within a reasonable time. We will provide details regarding your applicable data protection authority upon request.
+You can exercise your rights by contacting us using the details set out in the “[**Contact Us**](#contact_us)” section below. We will respond to complaints in writing within a reasonable time. We will provide details regarding your applicable data protection authority upon request.
+
+### 
 
 **Vietnam**
 
 In limited circumstances, certain information we collect may be considered sensitive personal data under Vietnamese laws, such as location data (e.g., IP address) and information appearing on your ID documents (e.g., photo of your face) although we do not extract any identifier template(s) from this data.
 
+## 
+
 **Changes to the Privacy Policy**
 
 We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy, posting it on the Service, providing any notice or other appropriate means in accordance with applicable laws. Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). We recommend that you review the Privacy Policy each time you visit our Service to stay informed of our privacy practices.
+
+## 
 
 **Contact Us**
 

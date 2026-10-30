@@ -40,7 +40,7 @@ Provide the supply price information corresponding to the orders for the self-de
 
 | Error Code | Message |
 |---|---|
-| 140020015 | This API is currently available only in select marketplaces. |
+| 140020015 | This API is not applicable to the country or region where the current store is located. |
 | 140020002 | Order not found |
 | 140020008 | Some amount fields are still undergoing system calculation. Please try again later. |
 

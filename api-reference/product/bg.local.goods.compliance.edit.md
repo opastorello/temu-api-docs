@@ -29,6 +29,7 @@ Edit product qualification information
 | goodsId | 2 | No |  |  |
 | certificateInfo | 6 | No |  |  |
 | actualPhoto | 6 | No |  |  |
+| gpsrInfo | 6 | No |  |  |
 | repInfo | 6 | No |  |  |
 | extraTemplate | 6 | No |  |  |
 
@@ -184,6 +185,13 @@ curl -X POST \
     } ]
   },
   "version" : "test",
+  "gpsrInfo" : {
+    "skip" : true,
+    "manufacturerList" : [ {
+      "repType" : 1,
+      "repId" : 1
+    } ]
+  },
   "access_token" : "test",
   "app_key" : "test",
   "data_type" : "test",

@@ -358,6 +358,9 @@ curl -X POST \
     "barCodeIdList" : [ "test", "test" ]
   } ],
   "certificationInfo" : {
+    "manuNameList" : [ "test", "test" ],
+    "responsiblePerson" : [ 1, 1 ],
+    "respNameList" : [ "test", "test" ],
     "governProperty" : [ {
       "vid" : 1,
       "inputValue" : "test",
@@ -365,8 +368,7 @@ curl -X POST \
       "value" : "test",
       "refPid" : 1
     } ],
-    "responsiblePerson" : [ 1, 1 ],
-    "respNameList" : [ "test", "test" ]
+    "manufacturer" : [ 1, 1 ]
   },
   "goodsServicePromise" : {
     "costTemplateId" : "test",

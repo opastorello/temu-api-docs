@@ -416,6 +416,14 @@ curl -X POST \
       } ],
       "skip" : true
     },
+    "gpsrInfo" : {
+      "skip" : true,
+      "manufacturerList" : [ {
+        "name" : "test",
+        "repType" : 1,
+        "repId" : 1
+      } ]
+    },
     "repInfo" : {
       "repDetailList" : [ {
         "nameList" : [ "test", "test" ],

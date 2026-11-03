@@ -28,6 +28,7 @@ edit goods compliance interface v2 version
 | language | 4 | No |  |  |
 | goodsId | 2 | No |  |  |
 | governProperty | 8 | No |  |  |
+| manufacturer | 8 | No |  |  |
 | responsiblePerson | 8 | No |  |  |
 
 ## Response Parameters
@@ -385,7 +386,8 @@ curl -X POST \
   "language" : "test",
   "type" : "test",
   "version" : "test",
-  "timestamp" : "test"
+  "timestamp" : "test",
+  "manufacturer" : [ 1, 1 ]
 }'
 ```
 

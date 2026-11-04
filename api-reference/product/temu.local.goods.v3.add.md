@@ -43,6 +43,7 @@ Post products to temu and automatically populate the database based on the origi
 
 | Error Code | Message |
 |---|---|
+| 150011131 | Too frequent requests, exceeding rate limit, please retry later. |
 | 150010261 | The recommended categories cannot be sold. Category: {*} |
 | 150010260 | No categories are recommended. Please complete product name and try again. |
 | 150011018 | Price currency {*} can have at most {*} decimal points. |
@@ -69,6 +70,9 @@ Post products to temu and automatically populate the database based on the origi
 | 150010084 | Invalid currency |
 | 150011034 | The value of {*} is empty. Please check and enter correctly. |
 | 150010042 | Category unavailable |
+| 150011001 | We have limited the number of products that can be listed per day to {*} to optimize product listing  efficiency. |
+| 150010220 | Book products cannot be published by non-book store |
+| 150010219 | Bookstores can only list books |
 
 ## Request Example
 

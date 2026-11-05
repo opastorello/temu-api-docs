@@ -1223,7 +1223,7 @@
 | Denmark-DK | EU | "da", "en" | 139 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | DKK | DKK | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Romania-RO | EU | "en", "ro", "hu" | 140 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999999.9] | RON | RON | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Bulgaria-bg | EU | "en", "bg" | 141 | g | 1 decimal point | [0.1, 10000000) | cm | 1 decimal point | [0.1,9999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
-| Belgium-BE | GLO | "en", "fr", "nl", "tr" | 142 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
+| Belgium-BE | EU | "en", "fr", "nl", "tr" | 142 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Austria-AT | EU | "en", "de", "ar", "tr" | 143 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Finland-FI | EU | "en", "fi", "sv" | 144 | g | 1 decimal point | [0.1, 10000000) | cm | 1 decimal point | [0.1,9999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Slovakia-SK | EU | en", "cs", "hu", "sk" | 145 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |

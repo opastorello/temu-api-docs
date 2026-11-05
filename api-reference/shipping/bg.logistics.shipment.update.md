@@ -41,6 +41,7 @@ The bg.logistics.shipment.update interface is for sellers to create shipment log
 
 | Error Code | Message |
 |---|---|
+| 120015007 | This logistics provider or shipping channel is not supported for this order. Please select an available option. If you would like to use this provider or channel, please contact your account manager for assistance. |
 | 120011131 | Neither an invoice access key nor an invoice XML file was provided for a Brazilian order. Exactly one of them is required. |
 | 120011127 | The issuing state of this invoice does not currently support verification via XML file. Please provide an access key and retry. |
 | 120011126 | The provided invoice failed validation. Please check it and re-submit. |

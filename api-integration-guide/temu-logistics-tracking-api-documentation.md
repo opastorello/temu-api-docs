@@ -63,7 +63,7 @@ Logistics Status Enumeration
 | The undelivered package is returned and Available for Pickup | 未妥投的包裹发生退件并送到海外仓附近自提点，等待仓库提取 | An undelivered package is returned and placed at a pickup point near the overseas warehouse, awaiting retrieval by the warehouse. |
 | Available for Pickup | 货物送到自提点，等客户提取 | The goods have been delivered to a pickup point and are waiting for customer collection. |
 | Delivered | Delivered | 签收状态 | The package has been successfully delivered and signed for by the recipient. |
-| Delivery Failure | Carrier accepted the claimed of Missing Parcel | 包裹已经丢失，例如lost、stolen | The package is confirmed to be lost or stolen. |
+| Delivery Failure | Package Lost | 包裹已经丢失，例如lost、stolen | The package is confirmed to be lost or stolen. |
 | The undelivered package is returned and delivered | 未妥投的包裹发生退件并完成送达到海外仓，即“退件签收” | An undelivered package has been returned and successfully delivered to the overseas warehouse ("Return shipment signed for"). |
 | Others | Others | 轨迹匹配不到任何节点的情况 | The tracking information does not match any known status nodes. |
 | Invalid information | 来自服务商、尾程物流商官方API的轨迹，官网没有展示，是我们不需要且不对消费者进行展示的轨迹 | Tracking information from carrier APIs not displayed on their official websites and not required or shown to consumers. |

@@ -56,6 +56,7 @@ Add New Items On Temu
 
 | Error Code | Message |
 |---|---|
+| 150011131 | Too frequent requests, exceeding rate limit, please retry later. |
 | 150010259 | The k-Type is wrong. |
 | 150010258 | "K-type" field exceed max count. |
 | 150010216 | The property value repeated. |

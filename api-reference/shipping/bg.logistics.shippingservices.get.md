@@ -53,6 +53,7 @@ The bg.logistics.shippingservices.get interface is for sellers to retrieve suppo
 
 | Error Code | Message |
 |---|---|
+| 120012106 | Peru requires the full parameter set to be passed through "shipOrderInfoList" for retrieving supported shipping carriers. |
 | 120011131 | Neither an invoice access key nor an invoice XML file was provided for a Brazilian order. Exactly one of them is required. |
 | 120011127 | The issuing state of this invoice does not currently support verification via XML file. Please provide an access key and retry. |
 | 120011126 | The provided invoice failed validation. Please check it and re-submit. |

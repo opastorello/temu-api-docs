@@ -106,7 +106,8 @@ curl -X POST \
       "attributeValueUnitList" : [ {
         "valueUnitName" : "test",
         "valueUnitId" : 1
-      } ]
+      } ],
+      "importantAttribute" : true
     } ]
   },
   "errorCode" : 1,

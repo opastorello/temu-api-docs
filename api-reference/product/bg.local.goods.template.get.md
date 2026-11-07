@@ -115,6 +115,7 @@ curl -X POST \
         "templatePid" : 1,
         "transnationalAttribute" : true,
         "required" : true,
+        "importantAttribute" : true,
         "propertyValueType" : 1,
         "minValue" : "test",
         "feature" : 1,

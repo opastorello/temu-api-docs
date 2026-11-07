@@ -87,7 +87,8 @@ curl -X POST \
       "attributeValueUnitList" : [ {
         "valueUnitName" : "test",
         "valueUnitId" : 1
-      } ]
+      } ],
+      "importantAttribute" : true
     } ],
     "goodsId" : 1,
     "language" : "test"

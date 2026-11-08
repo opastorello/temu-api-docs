@@ -29,6 +29,7 @@ The bg.order.list.v2.get interface is designed for support batch return of corre
 | pageSize | 1 | No |  |  |
 | parentOrderStatus | 1 | No |  |  |
 | parentOrderSnList | 8 | No |  |  |
+| orderSnList | 8 | No |  |  |
 | createAfter | 1 | No |  |  |
 | createBefore | 1 | No |  |  |
 | expectShipLatestTimeStart | 1 | No |  |  |
@@ -59,6 +60,8 @@ The bg.order.list.v2.get interface is designed for support batch return of corre
 
 | Error Code | Message |
 |---|---|
+| 140020016 | The order number does not belong to the parent order number. |
+| 140020017 | The number of {*} exceeds the maximum limit of {*} per request. Please reduce the number and try again. |
 | 140020012 | parentConfirmTimeEnd needs to be greater than the parentConfirmTimeStart |
 | 140020013 | {*} not passed in |
 | 140020014 | The format of {*} is inaccurate and requires a second level timestamp |
@@ -76,6 +79,7 @@ curl -X POST \
   "hasQualificationRequiredOrder" : true,
   "pageSize" : 1,
   "type" : "test",
+  "orderSnList" : [ "test", "test" ],
   "expectShipLatestTimeStart" : 1,
   "expectShipLatestTimeEnd" : 1,
   "packageAbnormalTypeList" : [ "test", "test" ],

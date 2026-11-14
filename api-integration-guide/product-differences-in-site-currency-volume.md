@@ -1218,8 +1218,8 @@
 | Greece-GR | EU | "el", "en" | 115 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Japan-JP | GLO | "ja", "en", "zh-Hans", "vi", "pt-BR", "ko" | 118 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | JPY | JPY | Integer | [1,99999999] | [2,99999999] |
 | Korea-KR | GLO | "ko", "en", "zh-Hans", "vi", "ru" | 119 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | KRW | KRW | Integer | [1,99999999] | [2,99999999] |
-| Czech Republic-CZ | EU | "en", "cs", "uk", "ru" | 137 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | CZK | CZK | 2 decimal points | [5,99999999] | [5,99999999] |
-| Hungary-HU | EU | "hu", "en" | 138 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | HUF | HUF | 2 decimal points | [5,99999999] | [5,99999999] |
+| Czech Republic-CZ | EU | "en", "cs", "uk", "ru" | 137 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | CZK | CZK | Integer | [5,99999999] | [5,99999999] |
+| Hungary-HU | EU | "hu", "en" | 138 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | HUF | HUF | Integer | [5,99999999] | [5,99999999] |
 | Denmark-DK | EU | "da", "en" | 139 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999.9] | DKK | DKK | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Romania-RO | EU | "en", "ro", "hu" | 140 | g | 1 decimal point | [0.1,9999999.9] | cm | 1 decimal point | [0.1,9999999.9] | RON | RON | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |
 | Bulgaria-bg | EU | "en", "bg" | 141 | g | 1 decimal point | [0.1, 10000000) | cm | 1 decimal point | [0.1,9999.9] | EUR | EUR | 2 decimal points | [0.01,99999999.99] | [0.02,99999999.99] |

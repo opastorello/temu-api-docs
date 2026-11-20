@@ -140,7 +140,8 @@ curl -X POST \
     "goodsName" : "test",
     "productType" : 1,
     "goodsDesc" : "test",
-    "detailImage" : [ "test", "test" ]
+    "detailImage" : [ "test", "test" ],
+    "useRecTaxCode" : true
   }
 }'
 ```

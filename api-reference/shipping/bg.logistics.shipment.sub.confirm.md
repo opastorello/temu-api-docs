@@ -41,6 +41,7 @@ The bg.logistics.shipment.sub.confirm interface should only be used in scenarios
 
 | Error Code | Message |
 |---|---|
+| 120012107 | Your store has been restricted from using "Confirm shipment" due to high-risk  fulfillment issues.Please use the online buy shipping function instead.  If you have any questions, please contact your Account Manager or Temu Customer Service. |
 | 120011123 | Your store has been restricted from confirming shipment by {*} tracking number. Please use the online buy shipping function to buy shipping label instead. |
 | 120011119 | Your store has been restricted from confirming shipment by intelcom tracking number. Please use the online buy shipping function to buy intelcom shipping label instead. |
 | 120015577 | Orders cannot be consolidated for shipment. |

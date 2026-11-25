@@ -43,6 +43,7 @@ Post products to temu and automatically populate the database based on the origi
 
 | Error Code | Message |
 |---|---|
+| 150011132 | For this product, {*} is duplicated. |
 | 150011131 | Too frequent requests, exceeding rate limit, please retry later. |
 | 150010261 | The recommended categories cannot be sold. Category: {*} |
 | 150010260 | No categories are recommended. Please complete product name and try again. |

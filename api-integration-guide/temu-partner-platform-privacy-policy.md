@@ -4,6 +4,8 @@
 
 **Temu | Partner Platform Privacy Policy**
 
+ 
+
 ## 
 
 **Index**
@@ -192,7 +194,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 
 **Do Not Track.** Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals.
 
-**Declining to provide information.** We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
+**Declining to provide information.** We need to collect certain personal information from you to provide the Service and certain related services. If you do not provide the information we require to provide the Service, we cannot provide the Service. However, we also collect some optional information from you; this information is optional, meaning we can still provide the Service, but without it, the quality of your experience of the Service may be affected.
 
 **Other choices.** Please see the** **[**Additional Terms for Certain Jurisdictions**](#additional_terms_for_certain_jurisdictions) for additional choices and rights you may have and how to exercise such choices and rights.
 
@@ -226,7 +228,7 @@ We may disclose your personal information to subsidiaries, affiliates, service p
 
 See the “[**How and Why we Share Your Information**](#how_and_why_we_share_your_information)” section above for more information about the reasons for our disclosures, which include supporting our operations, complying with applicable laws and legal process, and providing you with services.
 
-The recipients of personal information may be located in jurisdictions that do not afford the same protections as those afforded in your jurisdiction. We require recipients of personal information to commit to processing information in compliance with applicable privacy laws and to implementing appropriate security measures to protect your information (such as by entering into contractual arrangements).
+The recipients of personal information may be located in countries or jurisdictions that have data protection laws that are different in some aspects from the laws of the jurisdiction in which you reside. When we transfer your personal information outside of the jurisdiction in which you reside, we implement appropriate measures to ensure that your personal information will remain protected in accordance with this Privacy Policy and applicable laws.
 
 For example, when we transfer information outside of the EU, EEA, UK and Switzerland, we take steps to confirm that it benefits from an adequate level of data protection by relying on:
 
@@ -240,13 +242,17 @@ Standard contractual clauses. The European Commission has approved contractual c
 
 In certain situations, we rely on derogations provided for under the applicable law to transfer information to a third country.
 
-Click the link to learn more about [**Adequacy decisions**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) (or equivalent links under applicable laws) or [**Standard contractual clauses**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (or equivalent links under applicable laws).
+Click the link to learn more about [**Adequacy decisions**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)(or equivalent links under applicable laws) or [**Standard contractual clauses**](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)(or equivalent links under applicable laws).
 
 ## 
 
 **Additional Terms for Certain Jurisdictions**
 
 Certain jurisdictions have additional terms described below under applicable laws. If you are located in any jurisdiction set out below, the additional terms outlined below apply to you in addition to the other terms of this Privacy Policy. In case of any conflicts between the other terms of this Privacy Policy and the applicable additional terms described below, the terms described below shall govern.
+
+- 
+
+[**Argentina**](#argentina)
 
 - 
 
@@ -322,6 +328,22 @@ Certain jurisdictions have additional terms described below under applicable law
 
 ### 
 
+**Argentina**
+
+By creating an account or otherwise interacting with or using our Service, you consent to the practices described in this Privacy Policy.
+
+**Your Privacy Rights**
+
+In addition to the rights provided in the “[**Your Controls/Rights and Choices**](#your_controls/rights_and_choices)” section of this Privacy Policy, you have the following rights and any additional rights granted by applicable laws, which can be exercised in accordance with applicable laws. To exercise your rights, you may contact us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy:
+
+**Right of access**. You may exercise your right of access free of charge at intervals of not less than six months, unless you can provide other legitimate grounds for more frequent access.
+
+**Right to rectification, updating, deletion or confidentiality**. You may request, free of charge and at any time, that we rectify, update, delete, or treat your personal information as confidential.
+
+**Declining to provide information.** If you decline to provide your information by providing false or inaccurate information that is required to provide the Service, this may result in Temu’s impossibility to start and/or continue the contractual relationship with you. For information that is voluntary to provide, providing false or inaccurate information may prevent you from accessing certain Service.
+
+### 
+
 **Australia**
 
 **Your Australian Privacy Rights**
@@ -370,7 +392,7 @@ Applicable data protection laws require a legal basis for our use of personal in
 
 - 
 
-**These and other legal bases: **depending on the purpose we described in the “[**How and Why We Use Your Information**](#how_and_why_we_use_your_information)”.
+**These and other legal bases: **depending on the purpose we described in the “[**How and Why We Use Your Information**](#how_and_why_we_use_your_information)[”](#how_and_why_we_use_your_information).
 
 If you have any questions or comments about this Privacy Policy, your personal information, or to exercise one of your legal rights in relation to that personal information, please contact us using the details set out in the “[**Contact Us**](#contact_us)” section in this Privacy Policy.
 
